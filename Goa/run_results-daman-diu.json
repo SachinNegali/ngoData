@@ -1,1620 +1,1618 @@
-{
- "ngoList": [
-  {
-   "ngoName": "Aim Education Society",
-   "regNoCityAndState": "11/2009, moti daman (DAMAN & DIU)",
-   "address": "Bhitwadi, Daman wada,Near Moti Daman. 396220. Daman",
-   "sectorsWorkinIn": "Education & Literacy,Information & Communication Technology",
-   "title": "Aim Education Society",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2018/0206957",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "11/2009",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "21 of 1860",
-   "cityOfReg": "moti daman",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "15-12-2009",
-   "members": [
+[
     {
-     "name": "shaikh shoeb anwar",
-     "designation": "Academic Adviser",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "Aim Education Society",
+        "regNoCityAndState": "11/2009, moti daman (DAMAN & DIU)",
+        "address": "Bhitwadi, Daman wada,Near Moti Daman. 396220. Daman",
+        "sectorsWorkinIn": "Education & Literacy,Information & Communication Technology",
+        "title": "Aim Education Society",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2018/0206957",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "11/2009",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "21 of 1860",
+        "cityOfReg": "moti daman",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "15-12-2009",
+        "members": [
+            {
+                "name": "shaikh shoeb anwar",
+                "designation": "Academic Adviser",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "shaikh salimbhai mohmad safi",
+                "designation": "Executive Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "mohoodin umarmia",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Education & Literacy,Information & Communication Technology"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Aim English School (Primary to Secondary level). Kids Garden Pre School. (Play Group to UKG). Technical",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we does not taken any grant"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we does not taken any grant"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we does not taken any grant"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we does not taken any grant"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Bhitwadi, Daman wada,Near Moti Daman. 396220. Daman",
+        "city": "moti daman",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "7262040544",
+        "websiteUrl": "http://www.aimesdaman.com",
+        "email": "shoebsk12(at)gmail[dot]com"
     },
     {
-     "name": "shaikh salimbhai mohmad safi",
-     "designation": "Executive Member",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "holy name church",
+        "regNoCityAndState": "HQ-II/C-64/SR/78, Moti Daman (DAMAN & DIU)",
+        "address": "AT POST.MOTI DAMAN DIST- UT, PIN- 396220",
+        "sectorsWorkinIn": "Education & Literacy",
+        "title": "holy name church",
+        "registerdWith": "Any Other",
+        "uniqueId": "DD/2017/0173890",
+        "typeofNgo": "Trust (Non-Government)",
+        "regNo": "HQ-II/C-64/SR/78",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Income Tax Act",
+        "cityOfReg": "Moti Daman",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "07-04-1978",
+        "members": [
+            {
+                "name": "Raju Joseph Thoompunkal",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Elizabeth Maria Veronica Machado",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Lucia Maria Jose Machado",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Anselmo Angelino De Souza",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Violet Pereira",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "PRISCA FELESBINA DAS CHAGAS FATIMA COLACO",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Education & Literacy"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "271830040",
+        "detailsOfAchievement": "Trust has Mainly Involved In Village animation and spiritual works",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government Grant Has Been Received During This Year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government Grant Has Been Received During This Year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government Grant Has Been Received During This Year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government Grant has been during the year"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "AT POST.MOTI DAMAN DIST- UT, PIN- 396220",
+        "city": "Moti Daman",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "7046936540",
+        "websiteUrl": "Not Available",
+        "email": "holynamedp(at)gmail[dot]com"
     },
     {
-     "name": "mohoodin umarmia",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "JAN SHIKSHAN SANTHAN, DIU",
+        "regNoCityAndState": "04/2021-22, DIU (DAMAN & DIU)",
+        "address": "Swaminarayan School, Fudam, DIu",
+        "sectorsWorkinIn": "Skill Development,Education & Literacy,Science & Technology,Tourism,Vocational Training,Women's Development & Empowerment,Any Other",
+        "title": "JAN SHIKSHAN SANTHAN, DIU",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2021/0296279",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "04/2021-22",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "1860",
+        "cityOfReg": "DIU",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "16-09-2021",
+        "members": [
+            {
+                "name": "Joshi Jigneshkumar",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Makani Vimalkumar Dhirajlal",
+                "designation": "Vice Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Gamit Vineetbhai Arjunbhai",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Skill Development,Education & Literacy,Science & Technology,Tourism,Vocational Training,Women's Development & Empowerment,Any Other"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Diu"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "we have achieved yearly target of 1800 students to train different skill training and give job to various sectors",
+        "sourceOfFunds": [
+            {
+                "departmentName": "jan shikshan sansthan",
+                "source": "Central",
+                "financialYear": "2021-2022",
+                "amountSanctioned": "5000000",
+                "purpose": "Sanction Amount for Infrastructure and office development"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Swaminarayan School, Fudam, DIu",
+        "city": "DIU",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "7016755481",
+        "websiteUrl": "Not Available",
+        "email": "jss[dot]director.diu(at)gmail.com"
+    },
+    {
+        "ngoName": "Manav Kalyan Youth Welfare Union Trust",
+        "regNoCityAndState": "Soc/Col/Diu/2004-05/02, Vanakbara (DAMAN & DIU)",
+        "address": "H.No. 2335, Khajuriya Street, Main Road, Vanakbara - Diu. Pin-362570.",
+        "sectorsWorkinIn": "Data Not Found",
+        "title": "Manav Kalyan Youth Welfare Union Trust",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2016/0098949",
+        "typeofNgo": "Trust (Non-Government)",
+        "regNo": "Soc/Col/Diu/2004-05/02",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Not Available",
+        "cityOfReg": "Vanakbara",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "21-12-2004",
+        "members": [
+            {
+                "name": "Alpeshkumar Cangi Rama",
+                "designation": "Chief Functionary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Tulsidas N Bamaniya",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Baraiya Dinesh Soma",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Dolanki Dhanji Nathu",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "Not Available"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Awareness of HIV/AIDS among Migrant Workers in our Target Area Dabhel-Daman. Our Activities are as below: 1. Community Mobilization. 2. Sexually Transmitted Disease Treatment 3. Condom Promotion. 4. Enabling Environment. 5. Refferal & Linkages. 6. Behaviour change Communication. Our NGO also do other activities like IPC, GD, FGD, Video Show, Awareness Camp, Street-play, Health Camp, Exhibition, IEC material Distrubution, Social Marketing Condom Distrubution etc.",
+        "sourceOfFunds": [
+            {
+                "departmentName": "No Source Fund found for this NGO"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "H.No. 2335, Khajuriya Street, Main Road, Vanakbara - Diu. Pin-362570.",
+        "city": "Vanakbara",
+        "state": "DAMAN & DIU",
+        "telephone": "02875-271144",
+        "mobile": "9427779987",
+        "websiteUrl": "Not Available",
+        "email": "manavkalyandaman(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "OM SAI KALYAN SAMITI DARBHANGA",
+        "regNoCityAndState": "ggggggggggg5, ara (DAMAN & DIU)",
+        "address": "yhjfgyghgh",
+        "sectorsWorkinIn": "Any Other",
+        "title": "OM SAI KALYAN SAMITI DARBHANGA",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "BR/2018/0198239",
+        "typeofNgo": "Trust (Non-Government)",
+        "regNo": "ggggggggggg5",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "25457575",
+        "cityOfReg": "ara",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "12-09-2016",
+        "members": [
+            {
+                "name": "OM SHANKAR RAJ",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "POOJA KUMARI",
+                "designation": "Cashier",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "AMARNATH YADAV",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Any Other"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "BIHAR"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "BIHAR->Darbhanga"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "ALL CENTRAL GOVERMENT",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "To establish and maintain an institute to assist and encourage or promote for the purpose of education and vocational guidance in the form of institute school and rural development health"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "yhjfgyghgh",
+        "city": "ara",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9572130324",
+        "websiteUrl": "Not Available",
+        "email": "osrajfilmproduction(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "our lady of remedios church",
+        "regNoCityAndState": "HQ-II/C-72/SR/78, Moti Daman (DAMAN & DIU)",
+        "address": "AT POST. MOTI DAMAN DIST- UT, PIN- 396220",
+        "sectorsWorkinIn": "Education & Literacy",
+        "title": "our lady of remedios church",
+        "registerdWith": "Any Other",
+        "uniqueId": "DD/2017/0173895",
+        "typeofNgo": "Trust (Non-Government)",
+        "regNo": "HQ-II/C-72/SR/78",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Income Tax Act",
+        "cityOfReg": "Moti Daman",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "05-04-1978",
+        "members": [
+            {
+                "name": "Milton Michael Piedade",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Kenneth Braganca Dias",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Rennie Desouza",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Anselmo Angelino De Souza",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Education & Literacy"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "271830041",
+        "detailsOfAchievement": "Trust has mainly involved in village animation and spiritual works",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "AT POST. MOTI DAMAN DIST- UT, PIN- 396220",
+        "city": "Moti Daman",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9624138368",
+        "websiteUrl": "Not Available",
+        "email": "olremediosmotidaman(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "our lady of the sea church",
+        "regNoCityAndState": "HQ-II/O-8/SR/78, Nani Daman (DAMAN & DIU)",
+        "address": "AT POST.NANI DAMAN DIST- UT, PIN- 396210",
+        "sectorsWorkinIn": "Education & Literacy",
+        "title": "our lady of the sea church",
+        "registerdWith": "Any Other",
+        "uniqueId": "DD/2017/0173925",
+        "typeofNgo": "Trust (Non-Government)",
+        "regNo": "HQ-II/O-8/SR/78",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Income Tax Act",
+        "cityOfReg": "Nani Daman",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "07-04-1978",
+        "members": [
+            {
+                "name": "Lancelot Colin Louis Alex Fernandes",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Eurico Joaquim Do Rosario",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "MARTINHO DOS SANTOS JOAO DOS REMEDIOS",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "VERITA MARIA DAS DORES FERNANDES",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Education & Literacy"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "271830080",
+        "detailsOfAchievement": "Trust has mainly involved in village animation and spiritual works",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Government grant has been received during this year"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "AT POST.NANI DAMAN DIST- UT, PIN- 396210",
+        "city": "Nani Daman",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9512613988",
+        "websiteUrl": "Not Available",
+        "email": "domarnanidaman(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Samast Yuva Mandal",
+        "regNoCityAndState": "03/2018-19, Diu (DAMAN & DIU)",
+        "address": "H.No,704, Jalaram Society, Vanakbara",
+        "sectorsWorkinIn": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs",
+        "title": "Samast Yuva Mandal",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2019/0240037",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "03/2018-19",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "1860",
+        "cityOfReg": "Diu",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "22-06-2018",
+        "members": [
+            {
+                "name": "Dipali Ramji Bamaniya",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Radhika Bhagvandas Anjani",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Bhumika Amrutlal",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Charvika Jamnadas Solanki",
+                "designation": "Joint Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Kavita Ramesh Lodhari",
+                "designation": "Accountant",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Enali Chhagan Baraiya",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jignasa Bhavesh Solanki",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Nikita Pravin Solanki",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU, GUJARAT, HARYANA"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Diu, GUJARAT->Junagadh, HARYANA->Rohtak"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "social woks and cultural actives and sport events with always connected Education committee and groups",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we have not other source of payments"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we have not other source of payments"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "H.No,704, Jalaram Society, Vanakbara",
+        "city": "Diu",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9904992566",
+        "websiteUrl": "Not Available",
+        "email": "solanki[dot]diu2020(at)gmail.com"
+    },
+    {
+        "ngoName": "Sanyukt Yuva Mandal",
+        "regNoCityAndState": "07/2012-13, Diu (DAMAN & DIU)",
+        "address": "H.No,704, Jalaram Society, Vanakbara",
+        "sectorsWorkinIn": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Information & Communication Technology,Panchayati Raj,Sports,Youth Affairs,Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs",
+        "title": "Sanyukt Yuva Mandal",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2018/0209001",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "07/2012-13",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "1860",
+        "cityOfReg": "Diu",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "02-11-2012",
+        "members": [
+            {
+                "name": "Kamleshkumar Manji",
+                "designation": "Accountant",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Bhavesh Kanji Solanki",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Pravin Nanji Solanki",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jignasa Bhavesh Solanki",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Komal Amrutlal",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Bamania Dhaneksha Kanji",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Ukardi Nilesh Baraiya",
+                "designation": "Joint Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jiteshkumar Raja Sikotariya",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jalven Kanji Bamania",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Information & Communication Technology,Panchayati Raj,Sports,Youth Affairs,Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU, GUJARAT, HARYANA, DAMAN & DIU, GUJARAT, HARYANA"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Diu, GUJARAT->Junagadh, HARYANA->Rohtak, DAMAN & DIU->Diu, GUJARAT->Junagadh, HARYANA->Rohtak"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "social woks and cultural actives and sport events with always connected Education committee and groups",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we have not other source of payments"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we have not other source of payments"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we have not other source of payments"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "we have not other source of payments"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "H.No,704, Jalaram Society, Vanakbara",
+        "city": "Diu",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9737821011",
+        "websiteUrl": "Not Available",
+        "email": "symcompclass(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Sargam Yuva Mandal",
+        "regNoCityAndState": "RS/DIU/2/98, Diu (DAMAN & DIU)",
+        "address": "H. No. 491, Nava Para, Ghoghala, District Diu (UT), Daman and Diu Pin : 362540",
+        "sectorsWorkinIn": "Animal Husbandry, Dairying & Fisheries,Aged/Elderly,Agriculture,Art & Culture,Biotechnology,Children,Civic Issues,Differently Abled,Disaster Management,Dalit Upliftment,Drinking Water,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Legal Awareness & Aid,Labour & Employment,Land Resources,Micro Finance (SHGs),Minority Issues,Micro Small & Medium Enterprises",
+        "title": "Sargam Yuva Mandal",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2009/0020309",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "RS/DIU/2/98",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Not Available",
+        "cityOfReg": "Diu",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "06-07-1998",
+        "members": [
+            {
+                "name": "Jethwa Pravinaben Vinod",
+                "designation": "Chief Functionary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jethwa Pravinaben Vinod",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Solanki Hinakumari R",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jagdishchandra Bica bariya",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Animal Husbandry, Dairying & Fisheries,Aged/Elderly,Agriculture,Art & Culture,Biotechnology,Children,Civic Issues,Differently Abled,Disaster Management,Dalit Upliftment,Drinking Water,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Legal Awareness & Aid,Labour & Employment,Land Resources,Micro Finance (SHGs),Minority Issues,Micro Small & Medium Enterprises"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Diu"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Health Programme, Sanitation ans Sweeping Programme, Road Safety Programme, AIDS Awareness Programme, Celebration of Birth Anniversary of Vivekananda, Teachers Day Celebration, Education Programme, SHG Formation and Income Generation Programmes, Advocacy on Development for Marginalized People, Techical Trainings including (Graphic desining and skind printing, Hand embroidery, aggarbatty, Candle work, patch work, embroidery, paper cup making, mari masala & namkin making, ladies dress making, canning (jam, jelly, chavanprash etc.), Environment Programme, Waste Management, Aids Awareness, Education Programme, Income Generation Programme, Training / Capacity Building Programmes, Community Development Programme, Awareness Programme, Animal Husbandry, Support to grass root organization,",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Daman and Diu State AIDS control socitey",
+                "source": "State",
+                "financialYear": "2013-2014",
+                "amountSanctioned": "Not Specified",
+                "purpose": "TI Project"
+            },
+            {
+                "departmentName": "NA",
+                "source": "Central",
+                "financialYear": "2013-2014",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NA"
+            },
+            {
+                "departmentName": "NA",
+                "source": "Overseas",
+                "financialYear": "2013-2014",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NA"
+            },
+            {
+                "departmentName": "TI Project",
+                "source": "State",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "DDSACS"
+            },
+            {
+                "departmentName": "NIL",
+                "source": "Central",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NIL"
+            },
+            {
+                "departmentName": "NIL",
+                "source": "Overseas",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NIL"
+            },
+            {
+                "departmentName": "TI project",
+                "source": "State",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "DDSACS"
+            },
+            {
+                "departmentName": "NIL",
+                "source": "Central",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NIL"
+            },
+            {
+                "departmentName": "NIL",
+                "source": "Overseas",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NIL"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "H. No. 491, Nava Para, Ghoghala, District Diu (UT), Daman and Diu Pin : 362540",
+        "city": "Diu",
+        "state": "DAMAN & DIU",
+        "telephone": "02875-254046",
+        "mobile": "7069161968",
+        "websiteUrl": "Not Available",
+        "email": "sargam[dot]ti(at)gmail.com"
+    },
+    {
+        "ngoName": "SETCO FOUNDATION",
+        "regNoCityAndState": "2070/2014, DAMAN (DAMAN & DIU)",
+        "address": "SETCO FOUNDATION NR.BUS DEPO. DAMAN AND DIU396210",
+        "sectorsWorkinIn": "Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports",
+        "title": "SETCO FOUNDATION",
+        "registerdWith": "Sub-Registrar",
+        "uniqueId": "DD/2019/0230781",
+        "typeofNgo": "Trust (Non-Government)",
+        "regNo": "2070/2014",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Indian Trust Act,1882",
+        "cityOfReg": "DAMAN",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "04-09-2014",
+        "members": [
+            {
+                "name": "Urja Harshal Shah",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Neethu Udit Sheth",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Nisar Husein S Virani",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Harish Kiritbhai Sheth",
+                "designation": "Trustee",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Sneha Harish Sheth",
+                "designation": "Trustee",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Udit Harish Sheth",
+                "designation": "Trustee",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "GUJARAT"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "GUJARAT->Panch Mahals, Panch Mahals, Panch Mahals, Panch Mahals"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Community Awareness regarding Health, Malnutrition Reduction in Children(by 40 per), Reduction of Prevalence of Delay in Children through counselling",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No such government grant received during the financial year 2014-15"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No such government grant received during the financial year 2015-16."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No such government grant received during the financial year 2016-17."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No such government grant received during the financial year 2017-18."
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "SETCO FOUNDATION NR.BUS DEPO. DAMAN AND DIU396210",
+        "city": "DAMAN",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9727701456",
+        "websiteUrl": "Not Available",
+        "email": "trushargadhavi(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "SHREE MACHHI MAHAJAN EDUCATION SOCIETY",
+        "regNoCityAndState": "01/89, Nani Daman (DAMAN & DIU)",
+        "address": "Satyanarayan temple campus, kathiria, nani daman, daman, daman.",
+        "sectorsWorkinIn": "Data Not Found",
+        "title": "SHREE MACHHI MAHAJAN EDUCATION SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2021/0279895",
+        "typeofNgo": "Academic Institutions (Private)",
+        "regNo": "01/89",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "SMMEMS",
+        "cityOfReg": "Nani Daman",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "16-02-1989",
+        "members": [
+            {
+                "name": "MALBARI DHARMENDRAKUMAR KESHAVBHAI",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "MANOJ BAGAN",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "DIPAKKUMAR QUESSOU",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "Not Available"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Annual fuction are conduct in which different performance are done like dancing, singing, drama, athletes, etc",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Fund has Received"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Fund has Received"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2020-2021",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Fund has Received"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2021-2022",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Fund has Received"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Satyanarayan temple campus, kathiria, nani daman, daman, daman.",
+        "city": "Nani Daman",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "7567770353",
+        "websiteUrl": "http:www.smmems.com",
+        "email": "smmems(at)yahoo[dot]co.in"
+    },
+    {
+        "ngoName": "STEP UP FOUNDATION",
+        "regNoCityAndState": "05/2011, DAMAN (DAMAN & DIU)",
+        "address": "117/8, Jain Street, Nani Daman.",
+        "sectorsWorkinIn": "Civic Issues,Drinking Water,Education & Literacy,Health & Family Welfare,Minority Issues,Sports,Women's Development & Empowerment,Disaster Management",
+        "title": "STEP UP FOUNDATION",
+        "registerdWith": "Registrar of Cooperative Societies",
+        "uniqueId": "DD/2020/0255462",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "05/2011",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Societies Registration Act,1860",
+        "cityOfReg": "DAMAN",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "22-03-2011",
+        "members": [
+            {
+                "name": "Vijaykumar Ramanlal Patel",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Rudresh Aribai",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Sureshbhai Naranbhai Oad",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Civic Issues,Drinking Water,Education & Literacy,Health & Family Welfare,Minority Issues,Sports,Women's Development & Empowerment,Disaster Management"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Providing Job oriented training course to women, Ambulance Services, Introduced Mokshrath Funeral Van Service First time in Daman Constructing Community Toilet Blocks, RO Drinking Water Outlets at various places in association with CSR projects. Food for Hunger facilities,Monitory assistance for medical and child education, Organizing Participating Central Government U.T.Administration Schemes,Yojanas, Promoting Sports and Cultural programs.",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not applied"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "117/8, Jain Street, Nani Daman.",
+        "city": "DAMAN",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9624572748",
+        "websiteUrl": "Not Available",
+        "email": "stepupfoundation(at)ymail[dot]com"
+    },
+    {
+        "ngoName": "Swamivivekanand Yuvak Mandal",
+        "regNoCityAndState": "9/2001-02, DAMAN (DAMAN & DIU)",
+        "address": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
+        "sectorsWorkinIn": "HIV/AIDS",
+        "title": "Swamivivekanand Yuvak Mandal",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2014/0078347",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "9/2001-02",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Not Available",
+        "cityOfReg": "DAMAN",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "01-10-2001",
+        "members": [
+            {
+                "name": "Umesh Patel",
+                "designation": "Chief Functionary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Umesh Patel",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Vaishali Vadhel",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "HIV/AIDS"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman, Diu"
+            }
+        ],
+        "fcraRegNo": "358000001",
+        "detailsOfAchievement": "SWAMI VIVEKANAND YUVAK MANDAL is working cooperatively with Government agencies and local intellectuals. SWAMI VIVEKANAND YUVAK MANDAL has made substantial effort in understanding multiple interfaces of development issues among the communitiesâ€™, Youths, women, poor and marginalized, on one hand and the role of administration elected representatives, and civil society on the other. AIDS/HIV AWARNESS PORGRAMMES (TARGET INTERVENTION PROJECTS) - SWAMIVIVEKANAND YUVAK MANDAL has been successfully running AIDS/Hiv Awareness and Prevention campaign since 2006-07 under the name of T.I.-1 and T.I.-4",
+        "sourceOfFunds": [
+            {
+                "departmentName": "None",
+                "source": "State",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "None"
+            },
+            {
+                "departmentName": "None",
+                "source": "Central",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "None"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Overseas",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Specified"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
+        "city": "DAMAN",
+        "state": "DAMAN & DIU",
+        "telephone": "0260-2251333",
+        "mobile": "9825844410",
+        "websiteUrl": "http://youthactionforcedamandiu.com",
+        "email": "swamivivekanandyuvakmandal2711(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "The Society for Welfare of Mentally Retarded Children Diu",
+        "regNoCityAndState": "2/1999, DIU (DAMAN & DIU)",
+        "address": "DDRC Building, Near Govt. Hospital, Diu.DIU-362520 (U.T)",
+        "sectorsWorkinIn": "Children,Children",
+        "title": "The Society for Welfare of Mentally Retarded Children Diu",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2018/0206278",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "2/1999",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "U/S. 14 OF SOCIETIES REGISTRATIONS ACT.1860",
+        "cityOfReg": "DIU",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "07-04-1999",
+        "members": [
+            {
+                "name": "Dr Devji Sakar Kamalia",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Usman Mahmad Vora",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Hasmukhlal Rasiklal Bamania",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Children,Children"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Diu, Diu"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Awareness and sensitized disable people for the Social And Legal Rights of the Person with disability .",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Public Donation"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Public Donation"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Public Donation"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Public Donation"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "DDRC Building, Near Govt. Hospital, Diu.DIU-362520 (U.T)",
+        "city": "DIU",
+        "state": "DAMAN & DIU",
+        "telephone": "Not Available",
+        "mobile": "9825537025",
+        "websiteUrl": "Not Available",
+        "email": "swmrorgdiu(at)yahoo[dot]com"
+    },
+    {
+        "ngoName": "Youth Action Force Daman and Diu",
+        "regNoCityAndState": "06/2006, Daman (DAMAN & DIU)",
+        "address": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
+        "sectorsWorkinIn": "Human Rights,Youth Affairs",
+        "title": "Youth Action Force Daman and Diu",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2014/0078350",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "06/2006",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Not Available",
+        "cityOfReg": "Daman",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "28-09-2006",
+        "members": [
+            {
+                "name": "Umesh Patel",
+                "designation": "Chief Functionary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Umesh Patel",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Vijay Patel",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Human Rights,Youth Affairs"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "YOUTH ACTION FORCE DAMAN-DIU is completely a development oriented organization and irreversibly associated with community development action, internal and external resource mobilization to strengthen hand of community initiatives. YOUTH ACTION FORCE DAMAN-DIU has been able to play the role a change agent in empowering and handholding of community in its operational area and garner outstanding response from people. Various communities have reciprocated YOUTH ACTION FORCE DAMAN-DIU sincere efforts.",
+        "sourceOfFunds": [
+            {
+                "departmentName": "No Source Fund found for this NGO"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
+        "city": "Daman",
+        "state": "DAMAN & DIU",
+        "telephone": "0260-2251333",
+        "mobile": "9825844410",
+        "websiteUrl": "http://youthactionforcedamandiu.com",
+        "email": "youthactionforcedamandiu(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Youth Women Empowerment",
+        "regNoCityAndState": "02/2015, DAMAN (DAMAN & DIU)",
+        "address": "Ace shopping mall,Dilip Nagar, Nani Daman,Daman",
+        "sectorsWorkinIn": "Children,Civic Issues,Education & Literacy,HIV/AIDS,Human Rights,Legal Awareness & Aid,Right to Information & Advocacy,Tribal Affairs,Women's Development & Empowerment,Youth Affairs",
+        "title": "Youth Women Empowerment",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "DD/2017/0119816",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "02/2015",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Central Act 21 of 1860",
+        "cityOfReg": "DAMAN",
+        "stateOfReg": "DAMAN & DIU",
+        "dateOfReg": "19-02-2015",
+        "members": [
+            {
+                "name": "Anjana Amaresh Chaturvedi",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Dipika Kiritbhai Damania",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Vaishali Jentibhai Vadhel",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Children,Civic Issues,Education & Literacy,HIV/AIDS,Human Rights,Legal Awareness & Aid,Right to Information & Advocacy,Tribal Affairs,Women's Development & Empowerment,Youth Affairs"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "DAMAN & DIU"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "DAMAN & DIU->Daman"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "We fought for rights of common people and always succeded",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Applied"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Ace shopping mall,Dilip Nagar, Nani Daman,Daman",
+        "city": "DAMAN",
+        "state": "DAMAN & DIU",
+        "telephone": "0260-2251333",
+        "mobile": "9727684151",
+        "websiteUrl": "Not Available",
+        "email": "youthwomenempowerment(at)gmail[dot]com"
     }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Education & Literacy,Information & Communication Technology"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Aim English School (Primary to Secondary level). Kids Garden Pre School. (Play Group to UKG). Technical",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we does not taken any grant"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we does not taken any grant"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we does not taken any grant"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we does not taken any grant"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Bhitwadi, Daman wada,Near Moti Daman. 396220. Daman",
-   "city": "moti daman",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "7262040544",
-   "websiteUrl": "http://www.aimesdaman.com",
-   "email": "shoebsk12(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "holy name church",
-   "regNoCityAndState": "HQ-II/C-64/SR/78, Moti Daman (DAMAN & DIU)",
-   "address": "AT POST.MOTI DAMAN DIST- UT, PIN- 396220",
-   "sectorsWorkinIn": "Education & Literacy",
-   "title": "holy name church",
-   "registerdWith": "Any Other",
-   "uniqueId": "DD/2017/0173890",
-   "typeofNgo": "Trust (Non-Government)",
-   "regNo": "HQ-II/C-64/SR/78",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Income Tax Act",
-   "cityOfReg": "Moti Daman",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "07-04-1978",
-   "members": [
-    {
-     "name": "Raju Joseph Thoompunkal",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Elizabeth Maria Veronica Machado",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Lucia Maria Jose Machado",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Anselmo Angelino De Souza",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Violet Pereira",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "PRISCA FELESBINA DAS CHAGAS FATIMA COLACO",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Education & Literacy"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "271830040",
-   "detailsOfAchievement": "Trust has Mainly Involved In Village animation and spiritual works",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government Grant Has Been Received During This Year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government Grant Has Been Received During This Year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government Grant Has Been Received During This Year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government Grant has been during the year"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "AT POST.MOTI DAMAN DIST- UT, PIN- 396220",
-   "city": "Moti Daman",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "7046936540",
-   "websiteUrl": "Not Available",
-   "email": "holynamedp(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "JAN SHIKSHAN SANTHAN, DIU",
-   "regNoCityAndState": "04/2021-22, DIU (DAMAN & DIU)",
-   "address": "Swaminarayan School, Fudam, DIu",
-   "sectorsWorkinIn": "Skill Development,Education & Literacy,Science & Technology,Tourism,Vocational Training,Women's Development & Empowerment,Any Other",
-   "title": "JAN SHIKSHAN SANTHAN, DIU",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2021/0296279",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "04/2021-22",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "1860",
-   "cityOfReg": "DIU",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "16-09-2021",
-   "members": [
-    {
-     "name": "Joshi Jigneshkumar",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Makani Vimalkumar Dhirajlal",
-     "designation": "Vice Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Gamit Vineetbhai Arjunbhai",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Skill Development,Education & Literacy,Science & Technology,Tourism,Vocational Training,Women's Development & Empowerment,Any Other"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Diu"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "we have achieved yearly target of 1800 students to train different skill training and give job to various sectors",
-   "sourceOfFunds": [
-    {
-     "departmentName": "jan shikshan sansthan",
-     "source": "Central",
-     "financialYear": "2021-2022",
-     "amountSanctioned": "5000000",
-     "purpose": "Sanction Amount for Infrastructure and office development"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Swaminarayan School, Fudam, DIu",
-   "city": "DIU",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "7016755481",
-   "websiteUrl": "Not Available",
-   "email": "jss[dot]director.diu(at)gmail.com"
-  },
-  {
-   "ngoName": "Manav Kalyan Youth Welfare Union Trust",
-   "regNoCityAndState": "Soc/Col/Diu/2004-05/02, Vanakbara (DAMAN & DIU)",
-   "address": "H.No. 2335, Khajuriya Street, Main Road, Vanakbara - Diu. Pin-362570.",
-   "sectorsWorkinIn": "Data Not Found",
-   "title": "Manav Kalyan Youth Welfare Union Trust",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2016/0098949",
-   "typeofNgo": "Trust (Non-Government)",
-   "regNo": "Soc/Col/Diu/2004-05/02",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Not Available",
-   "cityOfReg": "Vanakbara",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "21-12-2004",
-   "members": [
-    {
-     "name": "Alpeshkumar Cangi Rama",
-     "designation": "Chief Functionary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Tulsidas N Bamaniya",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Baraiya Dinesh Soma",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Dolanki Dhanji Nathu",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "Not Available"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Awareness of HIV/AIDS among Migrant Workers in our Target Area Dabhel-Daman. Our Activities are as below: 1. Community Mobilization. 2. Sexually Transmitted Disease Treatment 3. Condom Promotion. 4. Enabling Environment. 5. Refferal & Linkages. 6. Behaviour change Communication. Our NGO also do other activities like IPC, GD, FGD, Video Show, Awareness Camp, Street-play, Health Camp, Exhibition, IEC material Distrubution, Social Marketing Condom Distrubution etc.",
-   "sourceOfFunds": [
-    {
-     "departmentName": "No Source Fund found for this NGO"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "H.No. 2335, Khajuriya Street, Main Road, Vanakbara - Diu. Pin-362570.",
-   "city": "Vanakbara",
-   "state": "DAMAN & DIU",
-   "telephone": "02875-271144",
-   "mobile": "9427779987",
-   "websiteUrl": "Not Available",
-   "email": "manavkalyandaman(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "OM SAI KALYAN SAMITI DARBHANGA",
-   "regNoCityAndState": "ggggggggggg5, ara (DAMAN & DIU)",
-   "address": "yhjfgyghgh",
-   "sectorsWorkinIn": "Any Other",
-   "title": "OM SAI KALYAN SAMITI DARBHANGA",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "BR/2018/0198239",
-   "typeofNgo": "Trust (Non-Government)",
-   "regNo": "ggggggggggg5",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "25457575",
-   "cityOfReg": "ara",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "12-09-2016",
-   "members": [
-    {
-     "name": "OM SHANKAR RAJ",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "POOJA KUMARI",
-     "designation": "Cashier",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "AMARNATH YADAV",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Any Other"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "BIHAR"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "BIHAR->Darbhanga"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "ALL CENTRAL GOVERMENT",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "To establish and maintain an institute to assist and encourage or promote for the purpose of education and vocational guidance in the form of institute school and rural development health"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "yhjfgyghgh",
-   "city": "ara",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9572130324",
-   "websiteUrl": "Not Available",
-   "email": "osrajfilmproduction(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "our lady of remedios church",
-   "regNoCityAndState": "HQ-II/C-72/SR/78, Moti Daman (DAMAN & DIU)",
-   "address": "AT POST. MOTI DAMAN DIST- UT, PIN- 396220",
-   "sectorsWorkinIn": "Education & Literacy",
-   "title": "our lady of remedios church",
-   "registerdWith": "Any Other",
-   "uniqueId": "DD/2017/0173895",
-   "typeofNgo": "Trust (Non-Government)",
-   "regNo": "HQ-II/C-72/SR/78",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Income Tax Act",
-   "cityOfReg": "Moti Daman",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "05-04-1978",
-   "members": [
-    {
-     "name": "Milton Michael Piedade",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Kenneth Braganca Dias",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Rennie Desouza",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Anselmo Angelino De Souza",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Education & Literacy"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "271830041",
-   "detailsOfAchievement": "Trust has mainly involved in village animation and spiritual works",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "AT POST. MOTI DAMAN DIST- UT, PIN- 396220",
-   "city": "Moti Daman",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9624138368",
-   "websiteUrl": "Not Available",
-   "email": "olremediosmotidaman(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "our lady of the sea church",
-   "regNoCityAndState": "HQ-II/O-8/SR/78, Nani Daman (DAMAN & DIU)",
-   "address": "AT POST.NANI DAMAN DIST- UT, PIN- 396210",
-   "sectorsWorkinIn": "Education & Literacy",
-   "title": "our lady of the sea church",
-   "registerdWith": "Any Other",
-   "uniqueId": "DD/2017/0173925",
-   "typeofNgo": "Trust (Non-Government)",
-   "regNo": "HQ-II/O-8/SR/78",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Income Tax Act",
-   "cityOfReg": "Nani Daman",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "07-04-1978",
-   "members": [
-    {
-     "name": "Lancelot Colin Louis Alex Fernandes",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Eurico Joaquim Do Rosario",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "MARTINHO DOS SANTOS JOAO DOS REMEDIOS",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "VERITA MARIA DAS DORES FERNANDES",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Education & Literacy"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "271830080",
-   "detailsOfAchievement": "Trust has mainly involved in village animation and spiritual works",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Government grant has been received during this year"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "AT POST.NANI DAMAN DIST- UT, PIN- 396210",
-   "city": "Nani Daman",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9512613988",
-   "websiteUrl": "Not Available",
-   "email": "domarnanidaman(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Samast Yuva Mandal",
-   "regNoCityAndState": "03/2018-19, Diu (DAMAN & DIU)",
-   "address": "H.No,704, Jalaram Society, Vanakbara",
-   "sectorsWorkinIn": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs",
-   "title": "Samast Yuva Mandal",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2019/0240037",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "03/2018-19",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "1860",
-   "cityOfReg": "Diu",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "22-06-2018",
-   "members": [
-    {
-     "name": "Dipali Ramji Bamaniya",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Radhika Bhagvandas Anjani",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Bhumika Amrutlal",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Charvika Jamnadas Solanki",
-     "designation": "Joint Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Kavita Ramesh Lodhari",
-     "designation": "Accountant",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Enali Chhagan Baraiya",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jignasa Bhavesh Solanki",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Nikita Pravin Solanki",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU, GUJARAT, HARYANA"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Diu, GUJARAT->Junagadh, HARYANA->Rohtak"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "social woks and cultural actives and sport events with always connected Education committee and groups",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we have not other source of payments"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we have not other source of payments"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "H.No,704, Jalaram Society, Vanakbara",
-   "city": "Diu",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9904992566",
-   "websiteUrl": "Not Available",
-   "email": "solanki[dot]diu2020(at)gmail.com"
-  },
-  {
-   "ngoName": "Sanyukt Yuva Mandal",
-   "regNoCityAndState": "07/2012-13, Diu (DAMAN & DIU)",
-   "address": "H.No,704, Jalaram Society, Vanakbara",
-   "sectorsWorkinIn": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Information & Communication Technology,Panchayati Raj,Sports,Youth Affairs,Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs",
-   "title": "Sanyukt Yuva Mandal",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2018/0209001",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "07/2012-13",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "1860",
-   "cityOfReg": "Diu",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "02-11-2012",
-   "members": [
-    {
-     "name": "Kamleshkumar Manji",
-     "designation": "Accountant",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Bhavesh Kanji Solanki",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Pravin Nanji Solanki",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jignasa Bhavesh Solanki",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Komal Amrutlal",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Bamania Dhaneksha Kanji",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Ukardi Nilesh Baraiya",
-     "designation": "Joint Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jiteshkumar Raja Sikotariya",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jalven Kanji Bamania",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Information & Communication Technology,Panchayati Raj,Sports,Youth Affairs,Agriculture,Art & Culture,Disaster Management,Education & Literacy,Health & Family Welfare,Panchayati Raj,Sports,Youth Affairs"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU, GUJARAT, HARYANA, DAMAN & DIU, GUJARAT, HARYANA"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Diu, GUJARAT->Junagadh, HARYANA->Rohtak, DAMAN & DIU->Diu, GUJARAT->Junagadh, HARYANA->Rohtak"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "social woks and cultural actives and sport events with always connected Education committee and groups",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we have not other source of payments"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we have not other source of payments"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we have not other source of payments"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "we have not other source of payments"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "H.No,704, Jalaram Society, Vanakbara",
-   "city": "Diu",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9737821011",
-   "websiteUrl": "Not Available",
-   "email": "symcompclass(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Sargam Yuva Mandal",
-   "regNoCityAndState": "RS/DIU/2/98, Diu (DAMAN & DIU)",
-   "address": "H. No. 491, Nava Para, Ghoghala, District Diu (UT), Daman and Diu Pin : 362540",
-   "sectorsWorkinIn": "Animal Husbandry, Dairying & Fisheries,Aged/Elderly,Agriculture,Art & Culture,Biotechnology,Children,Civic Issues,Differently Abled,Disaster Management,Dalit Upliftment,Drinking Water,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Legal Awareness & Aid,Labour & Employment,Land Resources,Micro Finance (SHGs),Minority Issues,Micro Small & Medium Enterprises",
-   "title": "Sargam Yuva Mandal",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2009/0020309",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "RS/DIU/2/98",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Not Available",
-   "cityOfReg": "Diu",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "06-07-1998",
-   "members": [
-    {
-     "name": "Jethwa Pravinaben Vinod",
-     "designation": "Chief Functionary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jethwa Pravinaben Vinod",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Solanki Hinakumari R",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jagdishchandra Bica bariya",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Animal Husbandry, Dairying & Fisheries,Aged/Elderly,Agriculture,Art & Culture,Biotechnology,Children,Civic Issues,Differently Abled,Disaster Management,Dalit Upliftment,Drinking Water,Education & Literacy,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Housing,Human Rights,Information & Communication Technology,Legal Awareness & Aid,Labour & Employment,Land Resources,Micro Finance (SHGs),Minority Issues,Micro Small & Medium Enterprises"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Diu"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Health Programme, Sanitation ans Sweeping Programme, Road Safety Programme, AIDS Awareness Programme, Celebration of Birth Anniversary of Vivekananda, Teachers Day Celebration, Education Programme, SHG Formation and Income Generation Programmes, Advocacy on Development for Marginalized People, Techical Trainings including (Graphic desining and skind printing, Hand embroidery, aggarbatty, Candle work, patch work, embroidery, paper cup making, mari masala & namkin making, ladies dress making, canning (jam, jelly, chavanprash etc.), Environment Programme, Waste Management, Aids Awareness, Education Programme, Income Generation Programme, Training / Capacity Building Programmes, Community Development Programme, Awareness Programme, Animal Husbandry, Support to grass root organization,",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Daman and Diu State AIDS control socitey",
-     "source": "State",
-     "financialYear": "2013-2014",
-     "amountSanctioned": "Not Specified",
-     "purpose": "TI Project"
-    },
-    {
-     "departmentName": "NA",
-     "source": "Central",
-     "financialYear": "2013-2014",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NA"
-    },
-    {
-     "departmentName": "NA",
-     "source": "Overseas",
-     "financialYear": "2013-2014",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NA"
-    },
-    {
-     "departmentName": "TI Project",
-     "source": "State",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "DDSACS"
-    },
-    {
-     "departmentName": "NIL",
-     "source": "Central",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NIL"
-    },
-    {
-     "departmentName": "NIL",
-     "source": "Overseas",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NIL"
-    },
-    {
-     "departmentName": "TI project",
-     "source": "State",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "DDSACS"
-    },
-    {
-     "departmentName": "NIL",
-     "source": "Central",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NIL"
-    },
-    {
-     "departmentName": "NIL",
-     "source": "Overseas",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NIL"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "H. No. 491, Nava Para, Ghoghala, District Diu (UT), Daman and Diu Pin : 362540",
-   "city": "Diu",
-   "state": "DAMAN & DIU",
-   "telephone": "02875-254046",
-   "mobile": "7069161968",
-   "websiteUrl": "Not Available",
-   "email": "sargam[dot]ti(at)gmail.com"
-  },
-  {
-   "ngoName": "SETCO FOUNDATION",
-   "regNoCityAndState": "2070/2014, DAMAN (DAMAN & DIU)",
-   "address": "SETCO FOUNDATION NR.BUS DEPO. DAMAN AND DIU396210",
-   "sectorsWorkinIn": "Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports",
-   "title": "SETCO FOUNDATION",
-   "registerdWith": "Sub-Registrar",
-   "uniqueId": "DD/2019/0230781",
-   "typeofNgo": "Trust (Non-Government)",
-   "regNo": "2070/2014",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Indian Trust Act,1882",
-   "cityOfReg": "DAMAN",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "04-09-2014",
-   "members": [
-    {
-     "name": "Urja Harshal Shah",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Neethu Udit Sheth",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Nisar Husein S Virani",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Harish Kiritbhai Sheth",
-     "designation": "Trustee",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Sneha Harish Sheth",
-     "designation": "Trustee",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Udit Harish Sheth",
-     "designation": "Trustee",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Children,Education & Literacy,Micro Finance (SHGs),Nutrition,Women's Development & Empowerment,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports,Water Resources,Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Differently Abled,Disaster Management,Drinking Water,Environment & Forests,Health & Family Welfare,Sports"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "GUJARAT"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "GUJARAT->Panch Mahals, Panch Mahals, Panch Mahals, Panch Mahals"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Community Awareness regarding Health, Malnutrition Reduction in Children(by 40 per), Reduction of Prevalence of Delay in Children through counselling",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No such government grant received during the financial year 2014-15"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No such government grant received during the financial year 2015-16."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No such government grant received during the financial year 2016-17."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No such government grant received during the financial year 2017-18."
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "SETCO FOUNDATION NR.BUS DEPO. DAMAN AND DIU396210",
-   "city": "DAMAN",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9727701456",
-   "websiteUrl": "Not Available",
-   "email": "trushargadhavi(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "SHREE MACHHI MAHAJAN EDUCATION SOCIETY",
-   "regNoCityAndState": "01/89, Nani Daman (DAMAN & DIU)",
-   "address": "Satyanarayan temple campus, kathiria, nani daman, daman, daman.",
-   "sectorsWorkinIn": "Data Not Found",
-   "title": "SHREE MACHHI MAHAJAN EDUCATION SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2021/0279895",
-   "typeofNgo": "Academic Institutions (Private)",
-   "regNo": "01/89",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "SMMEMS",
-   "cityOfReg": "Nani Daman",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "16-02-1989",
-   "members": [
-    {
-     "name": "MALBARI DHARMENDRAKUMAR KESHAVBHAI",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "MANOJ BAGAN",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "DIPAKKUMAR QUESSOU",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "Not Available"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Annual fuction are conduct in which different performance are done like dancing, singing, drama, athletes, etc",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Fund has Received"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Fund has Received"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2020-2021",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Fund has Received"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2021-2022",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Fund has Received"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Satyanarayan temple campus, kathiria, nani daman, daman, daman.",
-   "city": "Nani Daman",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "7567770353",
-   "websiteUrl": "http:www.smmems.com",
-   "email": "smmems(at)yahoo[dot]co.in"
-  },
-  {
-   "ngoName": "STEP UP FOUNDATION",
-   "regNoCityAndState": "05/2011, DAMAN (DAMAN & DIU)",
-   "address": "117/8, Jain Street, Nani Daman.",
-   "sectorsWorkinIn": "Civic Issues,Drinking Water,Education & Literacy,Health & Family Welfare,Minority Issues,Sports,Women's Development & Empowerment,Disaster Management",
-   "title": "STEP UP FOUNDATION",
-   "registerdWith": "Registrar of Cooperative Societies",
-   "uniqueId": "DD/2020/0255462",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "05/2011",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Societies Registration Act,1860",
-   "cityOfReg": "DAMAN",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "22-03-2011",
-   "members": [
-    {
-     "name": "Vijaykumar Ramanlal Patel",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Rudresh Aribai",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Sureshbhai Naranbhai Oad",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Civic Issues,Drinking Water,Education & Literacy,Health & Family Welfare,Minority Issues,Sports,Women's Development & Empowerment,Disaster Management"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Providing Job oriented training course to women, Ambulance Services, Introduced Mokshrath Funeral Van Service First time in Daman Constructing Community Toilet Blocks, RO Drinking Water Outlets at various places in association with CSR projects. Food for Hunger facilities,Monitory assistance for medical and child education, Organizing Participating Central Government U.T.Administration Schemes,Yojanas, Promoting Sports and Cultural programs.",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not applied"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "117/8, Jain Street, Nani Daman.",
-   "city": "DAMAN",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9624572748",
-   "websiteUrl": "Not Available",
-   "email": "stepupfoundation(at)ymail[dot]com"
-  },
-  {
-   "ngoName": "Swamivivekanand Yuvak Mandal",
-   "regNoCityAndState": "9/2001-02, DAMAN (DAMAN & DIU)",
-   "address": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
-   "sectorsWorkinIn": "HIV/AIDS",
-   "title": "Swamivivekanand Yuvak Mandal",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2014/0078347",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "9/2001-02",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Not Available",
-   "cityOfReg": "DAMAN",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "01-10-2001",
-   "members": [
-    {
-     "name": "Umesh Patel",
-     "designation": "Chief Functionary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Umesh Patel",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Vaishali Vadhel",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "HIV/AIDS"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman, Diu"
-    }
-   ],
-   "fcraRegNo": "358000001",
-   "detailsOfAchievement": "SWAMI VIVEKANAND YUVAK MANDAL is working cooperatively with Government agencies and local intellectuals. SWAMI VIVEKANAND YUVAK MANDAL has made substantial effort in understanding multiple interfaces of development issues among the communitiesâ€™, Youths, women, poor and marginalized, on one hand and the role of administration elected representatives, and civil society on the other. AIDS/HIV AWARNESS PORGRAMMES (TARGET INTERVENTION PROJECTS) - SWAMIVIVEKANAND YUVAK MANDAL has been successfully running AIDS/Hiv Awareness and Prevention campaign since 2006-07 under the name of T.I.-1 and T.I.-4",
-   "sourceOfFunds": [
-    {
-     "departmentName": "None",
-     "source": "State",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "None"
-    },
-    {
-     "departmentName": "None",
-     "source": "Central",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "None"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Overseas",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Specified"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
-   "city": "DAMAN",
-   "state": "DAMAN & DIU",
-   "telephone": "0260-2251333",
-   "mobile": "9825844410",
-   "websiteUrl": "http://youthactionforcedamandiu.com",
-   "email": "swamivivekanandyuvakmandal2711(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "The Society for Welfare of Mentally Retarded Children Diu",
-   "regNoCityAndState": "2/1999, DIU (DAMAN & DIU)",
-   "address": "DDRC Building, Near Govt. Hospital, Diu.DIU-362520 (U.T)",
-   "sectorsWorkinIn": "Children,Children",
-   "title": "The Society for Welfare of Mentally Retarded Children Diu",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2018/0206278",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "2/1999",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "U/S. 14 OF SOCIETIES REGISTRATIONS ACT.1860",
-   "cityOfReg": "DIU",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "07-04-1999",
-   "members": [
-    {
-     "name": "Dr Devji Sakar Kamalia",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Usman Mahmad Vora",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Hasmukhlal Rasiklal Bamania",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Children,Children"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Diu, Diu"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Awareness and sensitized disable people for the Social And Legal Rights of the Person with disability .",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Public Donation"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Public Donation"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Public Donation"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Public Donation"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "DDRC Building, Near Govt. Hospital, Diu.DIU-362520 (U.T)",
-   "city": "DIU",
-   "state": "DAMAN & DIU",
-   "telephone": "Not Available",
-   "mobile": "9825537025",
-   "websiteUrl": "Not Available",
-   "email": "swmrorgdiu(at)yahoo[dot]com"
-  },
-  {
-   "ngoName": "Youth Action Force Daman and Diu",
-   "regNoCityAndState": "06/2006, Daman (DAMAN & DIU)",
-   "address": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
-   "sectorsWorkinIn": "Human Rights,Youth Affairs",
-   "title": "Youth Action Force Daman and Diu",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2014/0078350",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "06/2006",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Not Available",
-   "cityOfReg": "Daman",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "28-09-2006",
-   "members": [
-    {
-     "name": "Umesh Patel",
-     "designation": "Chief Functionary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Umesh Patel",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Vijay Patel",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Human Rights,Youth Affairs"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "YOUTH ACTION FORCE DAMAN-DIU is completely a development oriented organization and irreversibly associated with community development action, internal and external resource mobilization to strengthen hand of community initiatives. YOUTH ACTION FORCE DAMAN-DIU has been able to play the role a change agent in empowering and handholding of community in its operational area and garner outstanding response from people. Various communities have reciprocated YOUTH ACTION FORCE DAMAN-DIU sincere efforts.",
-   "sourceOfFunds": [
-    {
-     "departmentName": "No Source Fund found for this NGO"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Youth Action Force,ACE Shopping Mall, Dilipnagar Ground Road, Dilip Nagar, Nani Daman, Daman-396210. DAMAN (U.T) INDIA",
-   "city": "Daman",
-   "state": "DAMAN & DIU",
-   "telephone": "0260-2251333",
-   "mobile": "9825844410",
-   "websiteUrl": "http://youthactionforcedamandiu.com",
-   "email": "youthactionforcedamandiu(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Youth Women Empowerment",
-   "regNoCityAndState": "02/2015, DAMAN (DAMAN & DIU)",
-   "address": "Ace shopping mall,Dilip Nagar, Nani Daman,Daman",
-   "sectorsWorkinIn": "Children,Civic Issues,Education & Literacy,HIV/AIDS,Human Rights,Legal Awareness & Aid,Right to Information & Advocacy,Tribal Affairs,Women's Development & Empowerment,Youth Affairs",
-   "title": "Youth Women Empowerment",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "DD/2017/0119816",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "02/2015",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Central Act 21 of 1860",
-   "cityOfReg": "DAMAN",
-   "stateOfReg": "DAMAN & DIU",
-   "dateOfReg": "19-02-2015",
-   "members": [
-    {
-     "name": "Anjana Amaresh Chaturvedi",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Dipika Kiritbhai Damania",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Vaishali Jentibhai Vadhel",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Children,Civic Issues,Education & Literacy,HIV/AIDS,Human Rights,Legal Awareness & Aid,Right to Information & Advocacy,Tribal Affairs,Women's Development & Empowerment,Youth Affairs"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "DAMAN & DIU"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "DAMAN & DIU->Daman"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "We fought for rights of common people and always succeded",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Applied"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Ace shopping mall,Dilip Nagar, Nani Daman,Daman",
-   "city": "DAMAN",
-   "state": "DAMAN & DIU",
-   "telephone": "0260-2251333",
-   "mobile": "9727684151",
-   "websiteUrl": "Not Available",
-   "email": "youthwomenempowerment(at)gmail[dot]com"
-  }
- ]
-}
+]
