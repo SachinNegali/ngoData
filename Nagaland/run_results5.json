@@ -1,1541 +1,1539 @@
-{
- "ngoList": [
-  {
-   "ngoName": "YIMKONG WELFARE SOCIETY",
-   "regNoCityAndState": "H/RS-1095, Mokokchung (NAGALAND)",
-   "address": "H.Q-Sungratsu VillageMokokchung, Post Mokokchung, State Nagaland,9436604215/ 9402488013",
-   "sectorsWorkinIn": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,Human Rights,Labour & Employment,Legal Awareness & Aid,Minority Issues,New & Renewable Energy,Science & Technology,Sports,Tourism,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Dalit Upliftment,Differently Abled",
-   "title": "YIMKONG WELFARE SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2018/0190021",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-1095",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "1860",
-   "cityOfReg": "Mokokchung",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "10-06-1997",
-   "members": [
+[
     {
-     "name": "Mr Lanuzulu",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "YIMKONG WELFARE SOCIETY",
+        "regNoCityAndState": "H/RS-1095, Mokokchung (NAGALAND)",
+        "address": "H.Q-Sungratsu VillageMokokchung, Post Mokokchung, State Nagaland,9436604215/ 9402488013",
+        "sectorsWorkinIn": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,Human Rights,Labour & Employment,Legal Awareness & Aid,Minority Issues,New & Renewable Energy,Science & Technology,Sports,Tourism,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Dalit Upliftment,Differently Abled",
+        "title": "YIMKONG WELFARE SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2018/0190021",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-1095",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "1860",
+        "cityOfReg": "Mokokchung",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "10-06-1997",
+        "members": [
+            {
+                "name": "Mr Lanuzulu",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "LOLENTOBA",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "APOKLA S LONGKUMER",
+                "designation": "Joint Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "TOSHIMONGLA AIER",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,Human Rights,Labour & Employment,Legal Awareness & Aid,Minority Issues,New & Renewable Energy,Science & Technology,Sports,Tourism,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Dalit Upliftment,Differently Abled"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Mon, Tuensang, Longleng, Kiphire, Mokokchung, Zunheboto, Wokha, Dimapur , Kohima, Peren, Phek"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Cultural programe Education Programe Adolescent programe National Integration programe Women Legal Awareness Programe Career Coaching programe Health care programe Drugs and health care programe Skill Development programe Consumer Awareness Programe Environment awareness programe global warming programe Swach Bharat programe Yoga and Ayush health programe and Vocation training to women youths and children",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Own sources like membership fee Donation from well wisher patron few builder"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Own sources like membership fee Donation from well wisher patron few builder"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Own sources like membership fee Donation from well wisher patron few builder and our life member executive membership fee etc"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2013-2014",
+                "amountSanctioned": "Not Specified",
+                "purpose": "From Membership Fee Donation from Chief Patron Patron Advisor Life Membership fee and few contractor Governing Body Membership fee Charity programe ticket and cultural programe ticket etc"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Drugs programe Cultural Programe and other activities from our membership fee"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Cultural programe at Sungratsu Village Mokokchung Our organization expenses from membership fee donation"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Expenditure of Rehab center at Mokokchung"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "H.Q-Sungratsu VillageMokokchung, Post Mokokchung, State Nagaland,9436604215/ 9402488013",
+        "city": "Mokokchung",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9436604215",
+        "websiteUrl": "Not Available",
+        "email": "yimkongwelfaresociety(at)gmail[dot]com"
     },
     {
-     "name": "LOLENTOBA",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "YIMKUMMER WELFARE SOCIETY",
+        "regNoCityAndState": "NO.HOME/SRC-6568, Tuli Town (NAGALAND)",
+        "address": "Yimkümmer House, Lukongmendang Ward, Tuli Town798618 DistMokokchung – Nagaland",
+        "sectorsWorkinIn": "Education & Literacy,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Youth Affairs,Environment & Forests,Aged/Elderly",
+        "title": "YIMKUMMER WELFARE SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0154851",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "NO.HOME/SRC-6568",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Registration of Societies Act 1860",
+        "cityOfReg": "Tuli Town",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "16-07-2013",
+        "members": [
+            {
+                "name": "ALLEN IMSONG",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "LIMAJUNGLA JAMIR",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "N IMTI IMSONG",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "LIPOKTEMJEN",
+                "designation": "Board Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "ROZELLE BILO MERO",
+                "designation": "Board Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Education & Literacy,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Youth Affairs,Environment & Forests,Aged/Elderly"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Mokokchung"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Personal Counseling Workshops Career Guidance Youth Development Programs Vocational and Skill Development Trainings Senior Citizens Day Care and Support Entrepreneurial Development Programs Motivational Programs Leadership Development Trainings Gender Sensitive Programs with particular emphasis on Women Empowerment Rights Awareness Seminars Environmental Protection and Sustainable Development Programs",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2013-2014",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Self-sponsored"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Self-sponsored"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Self-sponsored"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Self-sponsored"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Yimkümmer House, Lukongmendang Ward, Tuli Town798618 DistMokokchung – Nagaland",
+        "city": "Tuli Town",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9856742774",
+        "websiteUrl": "Not Available",
+        "email": "yimkummerwelfaresociety(at)gmail[dot]com"
     },
     {
-     "name": "APOKLA S LONGKUMER",
-     "designation": "Joint Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "YINGLI MISSION SOCIETY",
+        "regNoCityAndState": "H/RS-2145, Dimapur (NAGALAND)",
+        "address": "Imkonglenden Ward, H/No.192",
+        "sectorsWorkinIn": "Agriculture,Children,Differently Abled,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,HIV/AIDS,Micro Finance (SHGs),Vocational Training,Women's Development & Empowerment",
+        "title": "YINGLI MISSION SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0162508",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-2145",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Registration of Societies Act 1860",
+        "cityOfReg": "Dimapur",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "08-03-2002",
+        "members": [
+            {
+                "name": "Limamanen Phom",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Dr S Imnameren Phom",
+                "designation": "Board Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Takotemjen Phom",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Aliba Phom",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Moasosang Ang",
+                "designation": "Board Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Children,Differently Abled,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,HIV/AIDS,Micro Finance (SHGs),Vocational Training,Women's Development & Empowerment"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Dimapur , Longleng"
+            }
+        ],
+        "fcraRegNo": "164730178",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
+                "source": "State",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "2615843",
+                "purpose": "Audited through Chartered Accountant and in office record."
+            },
+            {
+                "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
+                "source": "State",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "3510922",
+                "purpose": "Audited through Chartered Accountant and in office record."
+            },
+            {
+                "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
+                "source": "State",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "2042077",
+                "purpose": "Audited through Chartered Accountant and in office record."
+            },
+            {
+                "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
+                "source": "State",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "1859360",
+                "purpose": "Project in progress"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Imkonglenden Ward, H/No.192",
+        "city": "Dimapur",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9615773281",
+        "websiteUrl": "Not Available",
+        "email": "ymsdmp2002(at)gmail[dot]com"
     },
     {
-     "name": "TOSHIMONGLA AIER",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
+        "ngoName": "YOUTH ALIVE SOCIETY",
+        "regNoCityAndState": "RS. 2582, Dimapur (NAGALAND)",
+        "address": "26,VIOLA COLONY DIMAPURNAGALAND-797112 INDIA",
+        "sectorsWorkinIn": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Land Resources,Legal Awareness & Aid,Micro Small & Medium Enterprises,Panchayati Raj,Prisoner's Issues,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Tourism,Tribal Affairs,Women's Development & Empowerment,Youth Affairs",
+        "title": "YOUTH ALIVE SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2018/0203459",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "RS. 2582",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Registered with Registration of Societies Act, 1860",
+        "cityOfReg": "Dimapur",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "09-05-1994",
+        "members": [
+            {
+                "name": "SENTIKUMLA",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "AOTULA LONGCHAR",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Imkongmeren",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Land Resources,Legal Awareness & Aid,Micro Small & Medium Enterprises,Panchayati Raj,Prisoner's Issues,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Tourism,Tribal Affairs,Women's Development & Empowerment,Youth Affairs"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Dimapur"
+            }
+        ],
+        "fcraRegNo": "164730153",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No Fund Recieved"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No grants received"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "No fund Recieved"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "26,VIOLA COLONY DIMAPURNAGALAND-797112 INDIA",
+        "city": "Dimapur",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9862561383",
+        "websiteUrl": "https://youthalivesociety.org.in/",
+        "email": "sentchar777(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Youth Mission",
+        "regNoCityAndState": "No. RS. 1198, Kohima (NAGALAND)",
+        "address": "Youth Mission Integrated rehabilitation Centre for Addicts Seikhazou-DBS Road, P.O. Box No. 127 Kohima, Nagaland- 797001",
+        "sectorsWorkinIn": "HIV/AIDS,Youth Affairs,Children,Any Other",
+        "title": "Youth Mission",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2009/0013604",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "No. RS. 1198",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "RS. Act 1860 as Amended Act, 2008",
+        "cityOfReg": "Kohima",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "29-04-1989",
+        "members": [
+            {
+                "name": "Thupu o Nyekha",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Kethokhrulu",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Imosanen",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Veprasa Nyekha",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Joseph Nyekha",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "HIV/AIDS,Youth Affairs,Children,Any Other"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Dimapur , Kohima, Mokokchung, Mon, Phek, Tuensang, Wokha, Zunheboto"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "The Youth Mission has been serving the people of Nagaland through its various activities since 1989. It first started Day-Care Counseling Programme and was subsequently upgraded to De-addiction cum Rehabilitation Centre in 2000. For over the past 2 decades, the Youth Mission has been combating drug abuse, alcoholism and spread of HIV/AIDS. The staffs being professionally well trained who have undergone various trainings both nationally and internationally provided by various organizations, have been working with dedication and commitment for drug addicts/alcoholics and HIV/AIDS free society and re-building them to become useful and healthy citizens of our country. We undertake follow up programmes by visiting the homes of our ex-clients, sending several letters and as part of our rehabilitation programme, we give guidance and rehabilitation to a number of recovered addicts and HIV+ people by providing linkage for integration into the community. Some of them are rehabilitated with vocational programme, work place and with educational settings. Besides the activities in the Rehabilitation Centre, the Youth Mission mainly focuses on the targeted groups such as Commercial Sex Workers (CSW), Addicts, Ex-addicts, Recovered addicts and students who have discontinued their studies. Counselling, treatment, guidance and awareness on preventive measures of the spread of HIV/AIDS are given to these targeted groups. We also encourage and refer them to visit Voluntary Counseling Treatment Centers (VCTC) for blood test to check their status. Awareness campaigns, seminars and workshops concerning the menace of drug abuse& alcoholism and HIV/AIDS, are conducted at various platforms such as schools, colleges, churches, hospitals, etc. As a part of our initiative, we visit Hospitals and Jails on a weekly basis and carry out Home visits: counselling addicts and their families to spread awareness, as well as giving counselling on co-dependency. The Youth Mission distributes booklets, pamphlets/leaflets to various sections of the society as part of our awareness campaign. The motto of the Youth Mission â€œRescue the Perishingâ€ as the name suggests has been rescuing many perishing people by bringing them back to the right track through its programme and activities. The general public have been made aware of the severe consequences of drug addiction/alcoholism and unprotected sex related cases such as HIV/AIDS and STDs. Many addicts and people living with HIV/AIDS (PLHA) have been helped in various ways through our counselling and rehabilitation programme who have now become healthy citizens. Youth Mission at the request of the State Government also started an observation Home for Juveniles in 2010 which was later converted into a Shelter Home in 2012. The Project is implemented in collaboration with the State Child Protection Society, other Organisations: Child Line, Police, etc and voluntary individuals. Providing protection, counselling, rehabilitation & reintegration of child into society, providing informal education and sponsoring the eligible for formal education, giving vocational trainings, spreading awareness on Child protection and other Child related issues, and providing immediate shelter to lost or abused children, are some of the goals fulfilled by the NGO in its endeavour to protect vulnerable children and secure for them better future for them..",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Ministry of Social Justice and Empowernment",
+                "source": "Central",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "696660",
+                "purpose": "The funds were utilized for Prevention of Alcoholism and Substance Abuse"
+            },
+            {
+                "departmentName": "Ministry of Social Justice and Empowernment",
+                "source": "Central",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "699300",
+                "purpose": "The funds were utilised for the Prevention of Alcoholism and Substance Abuse"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Youth Mission Integrated rehabilitation Centre for Addicts Seikhazou-DBS Road, P.O. Box No. 127 Kohima, Nagaland- 797001",
+        "city": "Kohima",
+        "state": "NAGALAND",
+        "telephone": "0370-2280033",
+        "mobile": "9436016536",
+        "websiteUrl": "Not Available",
+        "email": "tnyekha(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "YOUTHNET",
+        "regNoCityAndState": "H/RS-4629, KOHIMA (NAGALAND)",
+        "address": "YOUTHNET, BILLY GRAHAM ROAD, OPP. KOHIMA COLLEGE, KOHIMA - 797001, INDIA",
+        "sectorsWorkinIn": "Labour & Employment,New & Renewable Energy,Vocational Training,Youth Affairs,Animal Husbandry, Dairying & Fisheries,Education & Literacy,Right to Information & Advocacy,Art & Culture,Micro Small & Medium Enterprises,Tourism,Tribal Affairs,Women's Development & Empowerment",
+        "title": "YOUTHNET",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0120226",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-4629",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "REGISTRATION OF SOCIETIES ACT 1860",
+        "cityOfReg": "KOHIMA",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "02-06-2006",
+        "members": [
+            {
+                "name": "SEYIELEZO PUTSURE",
+                "designation": "Board Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Nuneseno Chase",
+                "designation": "Director",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Velutalu Puro",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jelly Kinimi",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Razouvikhol Luho",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Anini Nyenga",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Khrolo Lasushe",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "James Kithan",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "SAMUEL MAGH",
+                "designation": "Accountant",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Imtisangla Jamir",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Neikepekho Shosahie",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Alo Jeshing",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Tsepila Zhimomi",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Hekani Jakhalu",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Temjenmoa Jamir",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Amenla Aier",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Chingmei L Phom",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Neidevi Angami",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Chitsovilou Koza",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Keneilhoubeiu Kense",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Pursungit",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Thejasezo Rame",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Allan Aley",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Vizobeinuo Thong",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Thejasetuo Dzuvichu",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Labour & Employment,New & Renewable Energy,Vocational Training,Youth Affairs,Animal Husbandry, Dairying & Fisheries,Education & Literacy,Right to Information & Advocacy,Art & Culture,Micro Small & Medium Enterprises,Tourism,Tribal Affairs,Women's Development & Empowerment"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Dimapur , Kohima, Kiphire, Longleng, Mokokchung, Mon, Peren, Phek, Tuensang, Wokha, Zunheboto"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "YouthNet has four major departments. Nagaland Career and Development Center is the training cell in YouthNet. Since its inception it has trained about ten thousand people. Nagaland Job Center is a placement consultancy. It has placed about eight hundred candidates since its inception. Impact five thousand by two thousand eighteen aims to positively impact at least five thousand youth by the end of two thousand eighteen.",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Dept. of New and Renewable Energy",
+                "source": "State",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "630000",
+                "purpose": "Funding for conducting Solar Awareness Training Program and purchase of training materials and logistics, training coust."
+            },
+            {
+                "departmentName": "Dept. of Skill Development. Govt. of Nagaland",
+                "source": "State",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "2150000",
+                "purpose": "Expenses and cost incurred for Skill Development training and up gradation program for youths engaged in the construction sector in partnership with Govt. of Nagaland."
+            },
+            {
+                "departmentName": "Renewable Energy Department",
+                "source": "Central",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "930000",
+                "purpose": "To provide training to students, unemployed youths, farmers, business people, entrepreneurs on Renewable Energy sources. Three training programs were organised under this project: 1. Remote village electrification 2. Rooftop off-grid 3. Mini"
+            },
+            {
+                "departmentName": "Planning Department",
+                "source": "State",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "2500000",
+                "purpose": "Nagaland Youth Summit 2016 was held on February 26 and 27 at the NBCC Convention Centre, Kohima under the theme ‘Celebrating Young Nagas; Preparing the Next Generation’. 4000 people attended the two day summit which had discussions of best practices in leadership, success stories, constructive dialogue and what new generations may do to create new opportunities for partnerships, sustainability, and cooperation."
+            },
+            {
+                "departmentName": "Department of Youth Resources and sports",
+                "source": "State",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "900000",
+                "purpose": "YouthNet in partnership with Dept.of Youth Resources and Sports, Government of Nagaland has initiated a 5-year campaign called Impact 5000 by 18 which aims to positively impact 5000 young people involved in the private sector by the year 2018. The campaign will strive to foster a healthy private sector and thereby facilitate socio-economic prosperity of the youth and the state. This campaign will be implemented through the YouthNet Centre for Entrepreneurship and Employment."
+            },
+            {
+                "departmentName": "Ministry of Tribal Affairs",
+                "source": "Central",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "1500000",
+                "purpose": "Implementation of Van Dhan Project in 2 blocks in Kohima District"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "YOUTHNET, BILLY GRAHAM ROAD, OPP. KOHIMA COLLEGE, KOHIMA - 797001, INDIA",
+        "city": "KOHIMA",
+        "state": "NAGALAND",
+        "telephone": "0370-2260904",
+        "mobile": "9612775573",
+        "websiteUrl": "http://www.youthnet.org.in/",
+        "email": "YOUTHNET1(at)GMAIL[dot]COM"
+    },
+    {
+        "ngoName": "ZANUBU HILLS DEVELOPMENT ORGANIZATION",
+        "regNoCityAndState": "H/RS-2076, Chozuba (NAGALAND)",
+        "address": "Runguzu Village, Phek District, Nagaland Pin-797104",
+        "sectorsWorkinIn": "Agriculture,Animal Husbandry, Dairying & Fisheries,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Micro Small & Medium Enterprises,Rural Development & Poverty Alleviation,Tourism,Tribal Affairs,Vocational Training",
+        "title": "ZANUBU HILLS DEVELOPMENT ORGANIZATION",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0157538",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-2076",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Registration of Societies Act 1860",
+        "cityOfReg": "Chozuba",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "12-02-2002",
+        "members": [
+            {
+                "name": "Ashim Das",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Jozovoto Medeo",
+                "designation": "Vice President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Tavelhu Medeo",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Animal Husbandry, Dairying & Fisheries,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Micro Small & Medium Enterprises,Rural Development & Poverty Alleviation,Tourism,Tribal Affairs,Vocational Training"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Phek"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal plants. seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also fe"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal plants. seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also fe"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal purpose. seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal purposes. Seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also."
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Runguzu Village, Phek District, Nagaland Pin-797104",
+        "city": "Chozuba",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9862157548",
+        "websiteUrl": "Not Available",
+        "email": "das[dot]ashim4(at)gmail.com"
+    },
+    {
+        "ngoName": "ZAPHU VALEO SOCIETY",
+        "regNoCityAndState": "HOME/SRC-7240, Dimapur (NAGALAND)",
+        "address": "Urra Village, PO- Singriyon, P.S",
+        "sectorsWorkinIn": "Children",
+        "title": "ZAPHU VALEO SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2019/0240385",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "HOME/SRC-7240",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Society Registration Act,1860",
+        "cityOfReg": "Dimapur",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "23-08-2018",
+        "members": [
+            {
+                "name": "Kedunol Valeo",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Nosezol Valeo",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Neizashenu",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Children"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Dimapur"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Children, aged and elderly, education, vocational training, women empowerment",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Available"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Urra Village, PO- Singriyon, P.S",
+        "city": "Dimapur",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "8837275657",
+        "websiteUrl": "http://zapfuvaleosociety.com",
+        "email": "kedunolvaleo(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "ZAVMAST SOCIETY",
+        "regNoCityAndState": "H/RS-2712. Dt, 20.09.2002, PHEK (NAGALAND)",
+        "address": "ZAVMAST SOCIETY, KHULAZU BASA, DIST. PHEK, NAGALAND",
+        "sectorsWorkinIn": "Children,Education & Literacy,Aged/Elderly,Women's Development & Empowerment",
+        "title": "ZAVMAST SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0164022",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-2712. Dt, 20.09.2002",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Registration of Societies Act 1860",
+        "cityOfReg": "PHEK",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "20-09-2002",
+        "members": [
+            {
+                "name": "MELEKHO KEYHO",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "VETAZO KEYHO",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "SATAHI SHUJO",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Children,Education & Literacy,Aged/Elderly,Women's Development & Empowerment"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Phek"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Women and child development",
+                "source": "Central",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "3090000",
+                "purpose": "The Grant is sanctioned by the Central Government of India under integrated child protection scheme."
+            },
+            {
+                "departmentName": "Women and child development",
+                "source": "Central",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "3252600",
+                "purpose": "The Grant is sanctioned by the Central Government of India under integrated child protection scheme."
+            },
+            {
+                "departmentName": "Women and child development",
+                "source": "Central",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "718650",
+                "purpose": "Sanction grant by the central government of India under integrated child protection scheme to run a children home"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "NOT APPLICABLE"
+            },
+            {
+                "departmentName": "social welfare",
+                "source": "Central",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "2197800",
+                "purpose": "to run children home under child protection scheme."
+            },
+            {
+                "departmentName": "social welfare",
+                "source": "Central",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "2197800",
+                "purpose": "running a children home under child protection scheme."
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "ZAVMAST SOCIETY, KHULAZU BASA, DIST. PHEK, NAGALAND",
+        "city": "PHEK",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9615621897",
+        "websiteUrl": "Not Available",
+        "email": "anunolutetseo(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Zeme Community Welfare Organisation",
+        "regNoCityAndState": "H/RS-670, Jalukie Town (NAGALAND)",
+        "address": "House No. 139, Stadium Colony, Jalukie Town",
+        "sectorsWorkinIn": "Data Not Found",
+        "title": "Zeme Community Welfare Organisation",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2018/0193006",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-670",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Registration of Societies Act 1860",
+        "cityOfReg": "Jalukie Town",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "06-06-2000",
+        "members": [
+            {
+                "name": "Rangnim",
+                "designation": "Vice Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Heguilak Pame",
+                "designation": "Joint Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Mongsun",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "Not Available"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Members Contributions"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Members Contributions"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Members Contributions"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Members Contributions"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "House No. 139, Stadium Colony, Jalukie Town",
+        "city": "Jalukie Town",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9436606220",
+        "websiteUrl": "Not Available",
+        "email": "zcwojlk(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Zeme Women Organization",
+        "regNoCityAndState": "RS-1710, Peren (NAGALAND)",
+        "address": "Zeme Women Organisation Childrens Home ZBCC Compound Ndiming Colony Peren Town pin 797101",
+        "sectorsWorkinIn": "Children,Vocational Training,Women's Development & Empowerment",
+        "title": "Zeme Women Organization",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0117545",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "RS-1710",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Section 3 Act, 1860",
+        "cityOfReg": "Peren",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "03-03-1992",
+        "members": [
+            {
+                "name": "Heuyisilie",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Apele thou",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "apeuna iheilung",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Irui Kenn",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Children,Vocational Training,Women's Development & Empowerment"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Peren"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "the organization establish and runs a vocational training centre and children home in the district. the centre provides one year training programme and certificates to all the successful trainees at the end of the course. the organization also provide education for orphans children through sponser from different source. the organisation has been burdened with rise up social problems such as prostitution alcohol",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Social Welfare",
+                "source": "State",
+                "financialYear": "2020-2021",
+                "amountSanctioned": "1885104",
+                "purpose": "For Children Fooding, loading and Education"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2021-2022",
+                "amountSanctioned": "Not Specified",
+                "purpose": "not received"
+            },
+            {
+                "departmentName": "social and welfare",
+                "source": "State",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "1816128",
+                "purpose": "for children fooding and education"
+            },
+            {
+                "departmentName": "Social Welfare",
+                "source": "State",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "1864224",
+                "purpose": "for children fooding and education"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Zeme Women Organisation Childrens Home ZBCC Compound Ndiming Colony Peren Town pin 797101",
+        "city": "Peren",
+        "state": "NAGALAND",
+        "telephone": "03839-267244",
+        "mobile": "9856811109",
+        "websiteUrl": "Not Available",
+        "email": "zwochperen(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Zhihuo Welfare Society",
+        "regNoCityAndState": "HOME/SRC-7350, kohima (NAGALAND)",
+        "address": "Zhihuo Welfare SocietyMeluri Sub-Division,Dist- Phek, Nagaland pin- 797114",
+        "sectorsWorkinIn": "Agriculture,Children,Differently Abled,Aged/Elderly,Rural Development & Poverty Alleviation",
+        "title": "Zhihuo Welfare Society",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2019/0237277",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "HOME/SRC-7350",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Societies Registration Act 1860",
+        "cityOfReg": "kohima",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "19-04-2016",
+        "members": [
+            {
+                "name": "TSHUSIETHO NYUTHE",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "KUCHUTHO NYUTHE",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "KUOJITHO NYUTHE",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Agriculture,Children,Differently Abled,Aged/Elderly,Rural Development & Poverty Alleviation"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Phek"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Promoted in the farming of Lupini beans, Pineapples, Bamboo plantation,",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Farming and Members contribution."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Farming and contribution from Members"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2018-2019",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Farming and Contribution from members"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2019-2020",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Farming and contribution from the members"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Zhihuo Welfare SocietyMeluri Sub-Division,Dist- Phek, Nagaland pin- 797114",
+        "city": "kohima",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "8729857313",
+        "websiteUrl": "Not Available",
+        "email": "z[dot]nyusietho(at)gmail.com"
+    },
+    {
+        "ngoName": "ZION SOCIETY",
+        "regNoCityAndState": "H/RS- 3823, Peren (NAGALAND)",
+        "address": "ZION SOCIETY JALUKIE TOWN, PEREN DISTRICT NAGALAND- 797110",
+        "sectorsWorkinIn": "Data Not Found",
+        "title": "ZION SOCIETY",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2017/0162869",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-3823",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "ACT 1860( ACT NO.1 OF 2009)",
+        "cityOfReg": "JALUKIE",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "29-09-2004",
+        "members": [
+            {
+                "name": "PAULOI ZELIANG",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "APACHO KHAMO",
+                "designation": "President",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "ALAK NTUNG",
+                "designation": "Member",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "Not Available"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2013-2014",
+                "amountSanctioned": "Not Specified",
+                "purpose": "zion society main purpose is to uplift the tribal people through development."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2014-2015",
+                "amountSanctioned": "Not Specified",
+                "purpose": "zion society main purpose is to uplift the tribal people through development."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "zion society main purpose is to uplift the tribal people through development."
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "zion society main purpose is to uplift the tribal people through development."
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "ZION SOCIETY JALUKIE TOWN, PEREN DISTRICT NAGALAND- 797110",
+        "city": "JALUKIE",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9436636339",
+        "websiteUrl": "Not Available",
+        "email": "zionsociety01(at)gmail[dot]com"
+    },
+    {
+        "ngoName": "Zion Welfare Society",
+        "regNoCityAndState": "H/RS- 4509, Wokha (NAGALAND)",
+        "address": "Zion Welfare Society Baghty Town BPO Baghty Wokha District 797111 Nagaland",
+        "sectorsWorkinIn": "Data Not Found",
+        "title": "Zion Welfare Society",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2016/0098190",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS- 4509",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "Not Available",
+        "cityOfReg": "Wokha",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "16-12-2005",
+        "members": [
+            {
+                "name": "N James Murry",
+                "designation": "Chief Functionary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Y Chumbeni Lotha",
+                "designation": "Chairman",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "N James Murry",
+                "designation": "Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Chanbeni erui",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "Not Available"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "Not Available"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "ABSCD",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Nagaland State Aids Control Society / NACO",
+                "source": "State",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Prevention of HIV/AIDS"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Central",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Specified"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Overseas",
+                "financialYear": "2015-2016",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Not Specified"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "Zion Welfare Society Baghty Town BPO Baghty Wokha District 797111 Nagaland",
+        "city": "Wokha",
+        "state": "NAGALAND",
+        "telephone": "3862-229046",
+        "mobile": "9436816263",
+        "websiteUrl": "Not Available",
+        "email": "zionwelfaresociety(at)yahoo[dot]com"
+    },
+    {
+        "ngoName": "Zzone Clusters",
+        "regNoCityAndState": "H/RS-5626, Peren (NAGALAND)",
+        "address": "H/No 198, Mdipuiram Ward, Peren Town",
+        "sectorsWorkinIn": "HIV/AIDS,Sports,Youth Affairs",
+        "title": "Zzone Clusters",
+        "registerdWith": "Registrar of Societies",
+        "uniqueId": "NL/2020/0265004",
+        "typeofNgo": "Registered Societies (Non-Government)",
+        "regNo": "H/RS-5626",
+        "copyOfRegCertificate": "Available",
+        "copyOfPan": "Available",
+        "actName": "ZZone Clusters",
+        "cityOfReg": "Peren",
+        "stateOfReg": "NAGALAND",
+        "dateOfReg": "24-09-2009",
+        "members": [
+            {
+                "name": "kengimpeuding hegui",
+                "designation": "Director",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "papale iheilung",
+                "designation": "Treasurer",
+                "pan": "Available",
+                "aadhaar": "Available"
+            },
+            {
+                "name": "Stephen Meru",
+                "designation": "Assistant Secretary",
+                "pan": "Available",
+                "aadhaar": "Available"
+            }
+        ],
+        "isuues": [
+            {
+                "name": "Key Issues",
+                "value": "HIV/AIDS,Sports,Youth Affairs"
+            },
+            {
+                "name": "Operational Area-States",
+                "value": "NAGALAND"
+            },
+            {
+                "name": "Operational Area-District",
+                "value": "NAGALAND->Peren"
+            }
+        ],
+        "fcraRegNo": "Not Available",
+        "detailsOfAchievement": "Not Available",
+        "sourceOfFunds": [
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2016-2017",
+                "amountSanctioned": "Not Specified",
+                "purpose": "Fundraise, Membership Fee and contributions from well-wishers are the major of funding for the organization. No major funds nor grants have been received as yet. The organization is yet to make its impact felt and its subject to grant sanctioned in the near future for us to make foray"
+            },
+            {
+                "departmentName": "Not Specified",
+                "source": "Any Other",
+                "financialYear": "2017-2018",
+                "amountSanctioned": "Not Specified",
+                "purpose": "yet to avail sanction; the organization is solely run by the membership fee, contribution and donation from well wishers"
+            }
+        ],
+        "contactDetails": "Contact Details",
+        "postalAddress": "H/No 198, Mdipuiram Ward, Peren Town",
+        "city": "Peren",
+        "state": "NAGALAND",
+        "telephone": "Not Available",
+        "mobile": "9856790982",
+        "websiteUrl": "Not Available",
+        "email": "zzone_clusters08(at)yahoo[dot]co.in"
     }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,Human Rights,Labour & Employment,Legal Awareness & Aid,Minority Issues,New & Renewable Energy,Science & Technology,Sports,Tourism,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Dalit Upliftment,Differently Abled"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Mon, Tuensang, Longleng, Kiphire, Mokokchung, Zunheboto, Wokha, Dimapur , Kohima, Peren, Phek"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Cultural programe Education Programe Adolescent programe National Integration programe Women Legal Awareness Programe Career Coaching programe Health care programe Drugs and health care programe Skill Development programe Consumer Awareness Programe Environment awareness programe global warming programe Swach Bharat programe Yoga and Ayush health programe and Vocation training to women youths and children",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Own sources like membership fee Donation from well wisher patron few builder"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Own sources like membership fee Donation from well wisher patron few builder"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Own sources like membership fee Donation from well wisher patron few builder and our life member executive membership fee etc"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2013-2014",
-     "amountSanctioned": "Not Specified",
-     "purpose": "From Membership Fee Donation from Chief Patron Patron Advisor Life Membership fee and few contractor Governing Body Membership fee Charity programe ticket and cultural programe ticket etc"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Drugs programe Cultural Programe and other activities from our membership fee"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Cultural programe at Sungratsu Village Mokokchung Our organization expenses from membership fee donation"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Expenditure of Rehab center at Mokokchung"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "H.Q-Sungratsu VillageMokokchung, Post Mokokchung, State Nagaland,9436604215/ 9402488013",
-   "city": "Mokokchung",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9436604215",
-   "websiteUrl": "Not Available",
-   "email": "yimkongwelfaresociety(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "YIMKUMMER WELFARE SOCIETY",
-   "regNoCityAndState": "NO.HOME/SRC-6568, Tuli Town (NAGALAND)",
-   "address": "Yimkümmer House, Lukongmendang Ward, Tuli Town798618 DistMokokchung – Nagaland",
-   "sectorsWorkinIn": "Education & Literacy,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Youth Affairs,Environment & Forests,Aged/Elderly",
-   "title": "YIMKUMMER WELFARE SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0154851",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "NO.HOME/SRC-6568",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Registration of Societies Act 1860",
-   "cityOfReg": "Tuli Town",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "16-07-2013",
-   "members": [
-    {
-     "name": "ALLEN IMSONG",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "LIMAJUNGLA JAMIR",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "N IMTI IMSONG",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "LIPOKTEMJEN",
-     "designation": "Board Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "ROZELLE BILO MERO",
-     "designation": "Board Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Education & Literacy,Tribal Affairs,Vocational Training,Women's Development & Empowerment,Youth Affairs,Environment & Forests,Aged/Elderly"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Mokokchung"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Personal Counseling Workshops Career Guidance Youth Development Programs Vocational and Skill Development Trainings Senior Citizens Day Care and Support Entrepreneurial Development Programs Motivational Programs Leadership Development Trainings Gender Sensitive Programs with particular emphasis on Women Empowerment Rights Awareness Seminars Environmental Protection and Sustainable Development Programs",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2013-2014",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Self-sponsored"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Self-sponsored"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Self-sponsored"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Self-sponsored"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Yimkümmer House, Lukongmendang Ward, Tuli Town798618 DistMokokchung – Nagaland",
-   "city": "Tuli Town",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9856742774",
-   "websiteUrl": "Not Available",
-   "email": "yimkummerwelfaresociety(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "YINGLI MISSION SOCIETY",
-   "regNoCityAndState": "H/RS-2145, Dimapur (NAGALAND)",
-   "address": "Imkonglenden Ward, H/No.192",
-   "sectorsWorkinIn": "Agriculture,Children,Differently Abled,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,HIV/AIDS,Micro Finance (SHGs),Vocational Training,Women's Development & Empowerment",
-   "title": "YINGLI MISSION SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0162508",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-2145",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Registration of Societies Act 1860",
-   "cityOfReg": "Dimapur",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "08-03-2002",
-   "members": [
-    {
-     "name": "Limamanen Phom",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Dr S Imnameren Phom",
-     "designation": "Board Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Takotemjen Phom",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Aliba Phom",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Moasosang Ang",
-     "designation": "Board Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Children,Differently Abled,Education & Literacy,Aged/Elderly,Environment & Forests,Health & Family Welfare,HIV/AIDS,Micro Finance (SHGs),Vocational Training,Women's Development & Empowerment"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Dimapur , Longleng"
-    }
-   ],
-   "fcraRegNo": "164730178",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
-     "source": "State",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "2615843",
-     "purpose": "Audited through Chartered Accountant and in office record."
-    },
-    {
-     "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
-     "source": "State",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "3510922",
-     "purpose": "Audited through Chartered Accountant and in office record."
-    },
-    {
-     "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
-     "source": "State",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "2042077",
-     "purpose": "Audited through Chartered Accountant and in office record."
-    },
-    {
-     "departmentName": "Nagaland State AIDS Control Society under Directorate of Health and Family Welfare",
-     "source": "State",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "1859360",
-     "purpose": "Project in progress"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Imkonglenden Ward, H/No.192",
-   "city": "Dimapur",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9615773281",
-   "websiteUrl": "Not Available",
-   "email": "ymsdmp2002(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "YOUTH ALIVE SOCIETY",
-   "regNoCityAndState": "RS. 2582, Dimapur (NAGALAND)",
-   "address": "26,VIOLA COLONY DIMAPURNAGALAND-797112 INDIA",
-   "sectorsWorkinIn": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Land Resources,Legal Awareness & Aid,Micro Small & Medium Enterprises,Panchayati Raj,Prisoner's Issues,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Tourism,Tribal Affairs,Women's Development & Empowerment,Youth Affairs",
-   "title": "YOUTH ALIVE SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2018/0203459",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "RS. 2582",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Registered with Registration of Societies Act, 1860",
-   "cityOfReg": "Dimapur",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "09-05-1994",
-   "members": [
-    {
-     "name": "SENTIKUMLA",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "AOTULA LONGCHAR",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Imkongmeren",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Animal Husbandry, Dairying & Fisheries,Art & Culture,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Food Processing,Health & Family Welfare,HIV/AIDS,Land Resources,Legal Awareness & Aid,Micro Small & Medium Enterprises,Panchayati Raj,Prisoner's Issues,Rural Development & Poverty Alleviation,Scientific & Industrial Research,Tourism,Tribal Affairs,Women's Development & Empowerment,Youth Affairs"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Dimapur"
-    }
-   ],
-   "fcraRegNo": "164730153",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No Fund Recieved"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No grants received"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "No fund Recieved"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "26,VIOLA COLONY DIMAPURNAGALAND-797112 INDIA",
-   "city": "Dimapur",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9862561383",
-   "websiteUrl": "https://youthalivesociety.org.in/",
-   "email": "sentchar777(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Youth Mission",
-   "regNoCityAndState": "No. RS. 1198, Kohima (NAGALAND)",
-   "address": "Youth Mission Integrated rehabilitation Centre for Addicts Seikhazou-DBS Road, P.O. Box No. 127 Kohima, Nagaland- 797001",
-   "sectorsWorkinIn": "HIV/AIDS,Youth Affairs,Children,Any Other",
-   "title": "Youth Mission",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2009/0013604",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "No. RS. 1198",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "RS. Act 1860 as Amended Act, 2008",
-   "cityOfReg": "Kohima",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "29-04-1989",
-   "members": [
-    {
-     "name": "Thupu o Nyekha",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Kethokhrulu",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Imosanen",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Veprasa Nyekha",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Joseph Nyekha",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "HIV/AIDS,Youth Affairs,Children,Any Other"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Dimapur , Kohima, Mokokchung, Mon, Phek, Tuensang, Wokha, Zunheboto"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "The Youth Mission has been serving the people of Nagaland through its various activities since 1989. It first started Day-Care Counseling Programme and was subsequently upgraded to De-addiction cum Rehabilitation Centre in 2000. For over the past 2 decades, the Youth Mission has been combating drug abuse, alcoholism and spread of HIV/AIDS. The staffs being professionally well trained who have undergone various trainings both nationally and internationally provided by various organizations, have been working with dedication and commitment for drug addicts/alcoholics and HIV/AIDS free society and re-building them to become useful and healthy citizens of our country. We undertake follow up programmes by visiting the homes of our ex-clients, sending several letters and as part of our rehabilitation programme, we give guidance and rehabilitation to a number of recovered addicts and HIV+ people by providing linkage for integration into the community. Some of them are rehabilitated with vocational programme, work place and with educational settings. Besides the activities in the Rehabilitation Centre, the Youth Mission mainly focuses on the targeted groups such as Commercial Sex Workers (CSW), Addicts, Ex-addicts, Recovered addicts and students who have discontinued their studies. Counselling, treatment, guidance and awareness on preventive measures of the spread of HIV/AIDS are given to these targeted groups. We also encourage and refer them to visit Voluntary Counseling Treatment Centers (VCTC) for blood test to check their status. Awareness campaigns, seminars and workshops concerning the menace of drug abuse& alcoholism and HIV/AIDS, are conducted at various platforms such as schools, colleges, churches, hospitals, etc. As a part of our initiative, we visit Hospitals and Jails on a weekly basis and carry out Home visits: counselling addicts and their families to spread awareness, as well as giving counselling on co-dependency. The Youth Mission distributes booklets, pamphlets/leaflets to various sections of the society as part of our awareness campaign. The motto of the Youth Mission â€œRescue the Perishingâ€ as the name suggests has been rescuing many perishing people by bringing them back to the right track through its programme and activities. The general public have been made aware of the severe consequences of drug addiction/alcoholism and unprotected sex related cases such as HIV/AIDS and STDs. Many addicts and people living with HIV/AIDS (PLHA) have been helped in various ways through our counselling and rehabilitation programme who have now become healthy citizens. Youth Mission at the request of the State Government also started an observation Home for Juveniles in 2010 which was later converted into a Shelter Home in 2012. The Project is implemented in collaboration with the State Child Protection Society, other Organisations: Child Line, Police, etc and voluntary individuals. Providing protection, counselling, rehabilitation & reintegration of child into society, providing informal education and sponsoring the eligible for formal education, giving vocational trainings, spreading awareness on Child protection and other Child related issues, and providing immediate shelter to lost or abused children, are some of the goals fulfilled by the NGO in its endeavour to protect vulnerable children and secure for them better future for them..",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Ministry of Social Justice and Empowernment",
-     "source": "Central",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "696660",
-     "purpose": "The funds were utilized for Prevention of Alcoholism and Substance Abuse"
-    },
-    {
-     "departmentName": "Ministry of Social Justice and Empowernment",
-     "source": "Central",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "699300",
-     "purpose": "The funds were utilised for the Prevention of Alcoholism and Substance Abuse"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Youth Mission Integrated rehabilitation Centre for Addicts Seikhazou-DBS Road, P.O. Box No. 127 Kohima, Nagaland- 797001",
-   "city": "Kohima",
-   "state": "NAGALAND",
-   "telephone": "0370-2280033",
-   "mobile": "9436016536",
-   "websiteUrl": "Not Available",
-   "email": "tnyekha(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "YOUTHNET",
-   "regNoCityAndState": "H/RS-4629, KOHIMA (NAGALAND)",
-   "address": "YOUTHNET, BILLY GRAHAM ROAD, OPP. KOHIMA COLLEGE, KOHIMA - 797001, INDIA",
-   "sectorsWorkinIn": "Labour & Employment,New & Renewable Energy,Vocational Training,Youth Affairs,Animal Husbandry, Dairying & Fisheries,Education & Literacy,Right to Information & Advocacy,Art & Culture,Micro Small & Medium Enterprises,Tourism,Tribal Affairs,Women's Development & Empowerment",
-   "title": "YOUTHNET",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0120226",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-4629",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "REGISTRATION OF SOCIETIES ACT 1860",
-   "cityOfReg": "KOHIMA",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "02-06-2006",
-   "members": [
-    {
-     "name": "SEYIELEZO PUTSURE",
-     "designation": "Board Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Nuneseno Chase",
-     "designation": "Director",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Velutalu Puro",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jelly Kinimi",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Razouvikhol Luho",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Anini Nyenga",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Khrolo Lasushe",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "James Kithan",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "SAMUEL MAGH",
-     "designation": "Accountant",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Imtisangla Jamir",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Neikepekho Shosahie",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Alo Jeshing",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Tsepila Zhimomi",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Hekani Jakhalu",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Temjenmoa Jamir",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Amenla Aier",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Chingmei L Phom",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Neidevi Angami",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Chitsovilou Koza",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Keneilhoubeiu Kense",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Pursungit",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Thejasezo Rame",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Allan Aley",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Vizobeinuo Thong",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Thejasetuo Dzuvichu",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Labour & Employment,New & Renewable Energy,Vocational Training,Youth Affairs,Animal Husbandry, Dairying & Fisheries,Education & Literacy,Right to Information & Advocacy,Art & Culture,Micro Small & Medium Enterprises,Tourism,Tribal Affairs,Women's Development & Empowerment"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Dimapur , Kohima, Kiphire, Longleng, Mokokchung, Mon, Peren, Phek, Tuensang, Wokha, Zunheboto"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "YouthNet has four major departments. Nagaland Career and Development Center is the training cell in YouthNet. Since its inception it has trained about ten thousand people. Nagaland Job Center is a placement consultancy. It has placed about eight hundred candidates since its inception. Impact five thousand by two thousand eighteen aims to positively impact at least five thousand youth by the end of two thousand eighteen.",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Dept. of New and Renewable Energy",
-     "source": "State",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "630000",
-     "purpose": "Funding for conducting Solar Awareness Training Program and purchase of training materials and logistics, training coust."
-    },
-    {
-     "departmentName": "Dept. of Skill Development. Govt. of Nagaland",
-     "source": "State",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "2150000",
-     "purpose": "Expenses and cost incurred for Skill Development training and up gradation program for youths engaged in the construction sector in partnership with Govt. of Nagaland."
-    },
-    {
-     "departmentName": "Renewable Energy Department",
-     "source": "Central",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "930000",
-     "purpose": "To provide training to students, unemployed youths, farmers, business people, entrepreneurs on Renewable Energy sources. Three training programs were organised under this project: 1. Remote village electrification 2. Rooftop off-grid 3. Mini"
-    },
-    {
-     "departmentName": "Planning Department",
-     "source": "State",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "2500000",
-     "purpose": "Nagaland Youth Summit 2016 was held on February 26 and 27 at the NBCC Convention Centre, Kohima under the theme ‘Celebrating Young Nagas; Preparing the Next Generation’. 4000 people attended the two day summit which had discussions of best practices in leadership, success stories, constructive dialogue and what new generations may do to create new opportunities for partnerships, sustainability, and cooperation."
-    },
-    {
-     "departmentName": "Department of Youth Resources and sports",
-     "source": "State",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "900000",
-     "purpose": "YouthNet in partnership with Dept.of Youth Resources and Sports, Government of Nagaland has initiated a 5-year campaign called Impact 5000 by 18 which aims to positively impact 5000 young people involved in the private sector by the year 2018. The campaign will strive to foster a healthy private sector and thereby facilitate socio-economic prosperity of the youth and the state. This campaign will be implemented through the YouthNet Centre for Entrepreneurship and Employment."
-    },
-    {
-     "departmentName": "Ministry of Tribal Affairs",
-     "source": "Central",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "1500000",
-     "purpose": "Implementation of Van Dhan Project in 2 blocks in Kohima District"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "YOUTHNET, BILLY GRAHAM ROAD, OPP. KOHIMA COLLEGE, KOHIMA - 797001, INDIA",
-   "city": "KOHIMA",
-   "state": "NAGALAND",
-   "telephone": "0370-2260904",
-   "mobile": "9612775573",
-   "websiteUrl": "http://www.youthnet.org.in/",
-   "email": "YOUTHNET1(at)GMAIL[dot]COM"
-  },
-  {
-   "ngoName": "ZANUBU HILLS DEVELOPMENT ORGANIZATION",
-   "regNoCityAndState": "H/RS-2076, Chozuba (NAGALAND)",
-   "address": "Runguzu Village, Phek District, Nagaland Pin-797104",
-   "sectorsWorkinIn": "Agriculture,Animal Husbandry, Dairying & Fisheries,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Micro Small & Medium Enterprises,Rural Development & Poverty Alleviation,Tourism,Tribal Affairs,Vocational Training",
-   "title": "ZANUBU HILLS DEVELOPMENT ORGANIZATION",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0157538",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-2076",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Registration of Societies Act 1860",
-   "cityOfReg": "Chozuba",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "12-02-2002",
-   "members": [
-    {
-     "name": "Ashim Das",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Jozovoto Medeo",
-     "designation": "Vice President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Tavelhu Medeo",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Animal Husbandry, Dairying & Fisheries,Children,Civic Issues,Education & Literacy,Aged/Elderly,Environment & Forests,Micro Small & Medium Enterprises,Rural Development & Poverty Alleviation,Tourism,Tribal Affairs,Vocational Training"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Phek"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal plants. seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also fe"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal plants. seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also fe"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal purpose. seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Training cum workshop conducted for farmers for agricultural production in a large scale. Training cum workshop or seminar for bee keeping farmers and also for honey processing units. Training on farmers for horticultural products and organic fruits and vegetables were also stressed. utilizing of wild fruits and plants for medicinal purposes. Seminar to organize for Disabled and aged people and providing them needy with clothes and medicines and also with food items. Children education was also."
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Runguzu Village, Phek District, Nagaland Pin-797104",
-   "city": "Chozuba",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9862157548",
-   "websiteUrl": "Not Available",
-   "email": "das[dot]ashim4(at)gmail.com"
-  },
-  {
-   "ngoName": "ZAPHU VALEO SOCIETY",
-   "regNoCityAndState": "HOME/SRC-7240, Dimapur (NAGALAND)",
-   "address": "Urra Village, PO- Singriyon, P.S",
-   "sectorsWorkinIn": "Children",
-   "title": "ZAPHU VALEO SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2019/0240385",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "HOME/SRC-7240",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Society Registration Act,1860",
-   "cityOfReg": "Dimapur",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "23-08-2018",
-   "members": [
-    {
-     "name": "Kedunol Valeo",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Nosezol Valeo",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Neizashenu",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Children"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Dimapur"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Children, aged and elderly, education, vocational training, women empowerment",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Available"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Urra Village, PO- Singriyon, P.S",
-   "city": "Dimapur",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "8837275657",
-   "websiteUrl": "http://zapfuvaleosociety.com",
-   "email": "kedunolvaleo(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "ZAVMAST SOCIETY",
-   "regNoCityAndState": "H/RS-2712. Dt, 20.09.2002, PHEK (NAGALAND)",
-   "address": "ZAVMAST SOCIETY, KHULAZU BASA, DIST. PHEK, NAGALAND",
-   "sectorsWorkinIn": "Children,Education & Literacy,Aged/Elderly,Women's Development & Empowerment",
-   "title": "ZAVMAST SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0164022",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-2712. Dt, 20.09.2002",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Registration of Societies Act 1860",
-   "cityOfReg": "PHEK",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "20-09-2002",
-   "members": [
-    {
-     "name": "MELEKHO KEYHO",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "VETAZO KEYHO",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "SATAHI SHUJO",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Children,Education & Literacy,Aged/Elderly,Women's Development & Empowerment"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Phek"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Women and child development",
-     "source": "Central",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "3090000",
-     "purpose": "The Grant is sanctioned by the Central Government of India under integrated child protection scheme."
-    },
-    {
-     "departmentName": "Women and child development",
-     "source": "Central",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "3252600",
-     "purpose": "The Grant is sanctioned by the Central Government of India under integrated child protection scheme."
-    },
-    {
-     "departmentName": "Women and child development",
-     "source": "Central",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "718650",
-     "purpose": "Sanction grant by the central government of India under integrated child protection scheme to run a children home"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "NOT APPLICABLE"
-    },
-    {
-     "departmentName": "social welfare",
-     "source": "Central",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "2197800",
-     "purpose": "to run children home under child protection scheme."
-    },
-    {
-     "departmentName": "social welfare",
-     "source": "Central",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "2197800",
-     "purpose": "running a children home under child protection scheme."
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "ZAVMAST SOCIETY, KHULAZU BASA, DIST. PHEK, NAGALAND",
-   "city": "PHEK",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9615621897",
-   "websiteUrl": "Not Available",
-   "email": "anunolutetseo(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Zeme Community Welfare Organisation",
-   "regNoCityAndState": "H/RS-670, Jalukie Town (NAGALAND)",
-   "address": "House No. 139, Stadium Colony, Jalukie Town",
-   "sectorsWorkinIn": "Data Not Found",
-   "title": "Zeme Community Welfare Organisation",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2018/0193006",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-670",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Registration of Societies Act 1860",
-   "cityOfReg": "Jalukie Town",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "06-06-2000",
-   "members": [
-    {
-     "name": "Rangnim",
-     "designation": "Vice Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Heguilak Pame",
-     "designation": "Joint Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Mongsun",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "Not Available"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Members Contributions"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Members Contributions"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Members Contributions"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Members Contributions"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "House No. 139, Stadium Colony, Jalukie Town",
-   "city": "Jalukie Town",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9436606220",
-   "websiteUrl": "Not Available",
-   "email": "zcwojlk(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Zeme Women Organization",
-   "regNoCityAndState": "RS-1710, Peren (NAGALAND)",
-   "address": "Zeme Women Organisation Childrens Home ZBCC Compound Ndiming Colony Peren Town pin 797101",
-   "sectorsWorkinIn": "Children,Vocational Training,Women's Development & Empowerment",
-   "title": "Zeme Women Organization",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0117545",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "RS-1710",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Section 3 Act, 1860",
-   "cityOfReg": "Peren",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "03-03-1992",
-   "members": [
-    {
-     "name": "Heuyisilie",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Apele thou",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "apeuna iheilung",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Irui Kenn",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Children,Vocational Training,Women's Development & Empowerment"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Peren"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "the organization establish and runs a vocational training centre and children home in the district. the centre provides one year training programme and certificates to all the successful trainees at the end of the course. the organization also provide education for orphans children through sponser from different source. the organisation has been burdened with rise up social problems such as prostitution alcohol",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Social Welfare",
-     "source": "State",
-     "financialYear": "2020-2021",
-     "amountSanctioned": "1885104",
-     "purpose": "For Children Fooding, loading and Education"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2021-2022",
-     "amountSanctioned": "Not Specified",
-     "purpose": "not received"
-    },
-    {
-     "departmentName": "social and welfare",
-     "source": "State",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "1816128",
-     "purpose": "for children fooding and education"
-    },
-    {
-     "departmentName": "Social Welfare",
-     "source": "State",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "1864224",
-     "purpose": "for children fooding and education"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Zeme Women Organisation Childrens Home ZBCC Compound Ndiming Colony Peren Town pin 797101",
-   "city": "Peren",
-   "state": "NAGALAND",
-   "telephone": "03839-267244",
-   "mobile": "9856811109",
-   "websiteUrl": "Not Available",
-   "email": "zwochperen(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Zhihuo Welfare Society",
-   "regNoCityAndState": "HOME/SRC-7350, kohima (NAGALAND)",
-   "address": "Zhihuo Welfare SocietyMeluri Sub-Division,Dist- Phek, Nagaland pin- 797114",
-   "sectorsWorkinIn": "Agriculture,Children,Differently Abled,Aged/Elderly,Rural Development & Poverty Alleviation",
-   "title": "Zhihuo Welfare Society",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2019/0237277",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "HOME/SRC-7350",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Societies Registration Act 1860",
-   "cityOfReg": "kohima",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "19-04-2016",
-   "members": [
-    {
-     "name": "TSHUSIETHO NYUTHE",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "KUCHUTHO NYUTHE",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "KUOJITHO NYUTHE",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Agriculture,Children,Differently Abled,Aged/Elderly,Rural Development & Poverty Alleviation"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Phek"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Promoted in the farming of Lupini beans, Pineapples, Bamboo plantation,",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Farming and Members contribution."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Farming and contribution from Members"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2018-2019",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Farming and Contribution from members"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2019-2020",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Farming and contribution from the members"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Zhihuo Welfare SocietyMeluri Sub-Division,Dist- Phek, Nagaland pin- 797114",
-   "city": "kohima",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "8729857313",
-   "websiteUrl": "Not Available",
-   "email": "z[dot]nyusietho(at)gmail.com"
-  },
-  {
-   "ngoName": "ZION SOCIETY",
-   "regNoCityAndState": "H/RS- 3823, Peren (NAGALAND)",
-   "address": "ZION SOCIETY JALUKIE TOWN, PEREN DISTRICT NAGALAND- 797110",
-   "sectorsWorkinIn": "Data Not Found",
-   "title": "ZION SOCIETY",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2017/0162869",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-3823",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "ACT 1860( ACT NO.1 OF 2009)",
-   "cityOfReg": "JALUKIE",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "29-09-2004",
-   "members": [
-    {
-     "name": "PAULOI ZELIANG",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "APACHO KHAMO",
-     "designation": "President",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "ALAK NTUNG",
-     "designation": "Member",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "Not Available"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2013-2014",
-     "amountSanctioned": "Not Specified",
-     "purpose": "zion society main purpose is to uplift the tribal people through development."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2014-2015",
-     "amountSanctioned": "Not Specified",
-     "purpose": "zion society main purpose is to uplift the tribal people through development."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "zion society main purpose is to uplift the tribal people through development."
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "zion society main purpose is to uplift the tribal people through development."
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "ZION SOCIETY JALUKIE TOWN, PEREN DISTRICT NAGALAND- 797110",
-   "city": "JALUKIE",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9436636339",
-   "websiteUrl": "Not Available",
-   "email": "zionsociety01(at)gmail[dot]com"
-  },
-  {
-   "ngoName": "Zion Welfare Society",
-   "regNoCityAndState": "H/RS- 4509, Wokha (NAGALAND)",
-   "address": "Zion Welfare Society Baghty Town BPO Baghty Wokha District 797111 Nagaland",
-   "sectorsWorkinIn": "Data Not Found",
-   "title": "Zion Welfare Society",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2016/0098190",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS- 4509",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "Not Available",
-   "cityOfReg": "Wokha",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "16-12-2005",
-   "members": [
-    {
-     "name": "N James Murry",
-     "designation": "Chief Functionary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Y Chumbeni Lotha",
-     "designation": "Chairman",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "N James Murry",
-     "designation": "Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Chanbeni erui",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "Not Available"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "Not Available"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "ABSCD",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Nagaland State Aids Control Society / NACO",
-     "source": "State",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Prevention of HIV/AIDS"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Central",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Specified"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Overseas",
-     "financialYear": "2015-2016",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Not Specified"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "Zion Welfare Society Baghty Town BPO Baghty Wokha District 797111 Nagaland",
-   "city": "Wokha",
-   "state": "NAGALAND",
-   "telephone": "3862-229046",
-   "mobile": "9436816263",
-   "websiteUrl": "Not Available",
-   "email": "zionwelfaresociety(at)yahoo[dot]com"
-  },
-  {
-   "ngoName": "Zzone Clusters",
-   "regNoCityAndState": "H/RS-5626, Peren (NAGALAND)",
-   "address": "H/No 198, Mdipuiram Ward, Peren Town",
-   "sectorsWorkinIn": "HIV/AIDS,Sports,Youth Affairs",
-   "title": "Zzone Clusters",
-   "registerdWith": "Registrar of Societies",
-   "uniqueId": "NL/2020/0265004",
-   "typeofNgo": "Registered Societies (Non-Government)",
-   "regNo": "H/RS-5626",
-   "copyOfRegCertificate": "Available",
-   "copyOfPan": "Available",
-   "actName": "ZZone Clusters",
-   "cityOfReg": "Peren",
-   "stateOfReg": "NAGALAND",
-   "dateOfReg": "24-09-2009",
-   "members": [
-    {
-     "name": "kengimpeuding hegui",
-     "designation": "Director",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "papale iheilung",
-     "designation": "Treasurer",
-     "pan": "Available",
-     "aadhaar": "Available"
-    },
-    {
-     "name": "Stephen Meru",
-     "designation": "Assistant Secretary",
-     "pan": "Available",
-     "aadhaar": "Available"
-    }
-   ],
-   "isuues": [
-    {
-     "name": "Key Issues",
-     "value": "HIV/AIDS,Sports,Youth Affairs"
-    },
-    {
-     "name": "Operational Area-States",
-     "value": "NAGALAND"
-    },
-    {
-     "name": "Operational Area-District",
-     "value": "NAGALAND->Peren"
-    }
-   ],
-   "fcraRegNo": "Not Available",
-   "detailsOfAchievement": "Not Available",
-   "sourceOfFunds": [
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2016-2017",
-     "amountSanctioned": "Not Specified",
-     "purpose": "Fundraise, Membership Fee and contributions from well-wishers are the major of funding for the organization. No major funds nor grants have been received as yet. The organization is yet to make its impact felt and its subject to grant sanctioned in the near future for us to make foray"
-    },
-    {
-     "departmentName": "Not Specified",
-     "source": "Any Other",
-     "financialYear": "2017-2018",
-     "amountSanctioned": "Not Specified",
-     "purpose": "yet to avail sanction; the organization is solely run by the membership fee, contribution and donation from well wishers"
-    }
-   ],
-   "contactDetails": "Contact Details",
-   "postalAddress": "H/No 198, Mdipuiram Ward, Peren Town",
-   "city": "Peren",
-   "state": "NAGALAND",
-   "telephone": "Not Available",
-   "mobile": "9856790982",
-   "websiteUrl": "Not Available",
-   "email": "zzone_clusters08(at)yahoo[dot]co.in"
-  }
- ]
-}
+]
